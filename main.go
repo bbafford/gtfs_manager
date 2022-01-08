@@ -27,7 +27,12 @@ type Routes struct {
 	intContinousDropoff int
 }
 type Stops struct {
-	strStopID string
+	strStopID    string
+	strStopCode  string
+	strStopName  string
+	strStopDesc  string
+	fltStop_lat  float64
+	fltStop_logn float64
 }
 type Trips struct {
 	strRouteID   string
@@ -61,6 +66,28 @@ func ListStopsbyRoute(strRouteId string) {
 
 func LoadStops(strPath string) (s []Stops) {
 
+	csvFile, err := os.Open(strPath + "/stops.txt")
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	csvLines, err := csv.NewReader(csvFile).ReadAll()
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	for _, line := range csvLines {
+		//throw away the first line
+		if line[0] != "stop_id" {
+			temp := Stops{
+				strStopID: line[0],
+			}
+			s = append(s, temp)
+
+		}
+	}
+	return r
+	return s
 }
 func LoadRoutes(strPath string) (r []Routes) {
 
