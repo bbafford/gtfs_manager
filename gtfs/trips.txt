@@ -1,0 +1,2654 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+2363010,3,2,"Huron River to YTC",,0,901,shp-3-51,2,2
+932010,65,2,"65 Green Fuller to BTC",,1,5001,shp-65-02,2,2
+1811070,5,1,"5 Packard to BTC",,1,3007,shp-5-05,2,2
+2585020,3,3,"Huron River to BTC",,1,702,shp-3-02,2,2
+2163070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+240020,3,3,"Huron River to YTC",,0,802,shp-3-51,2,2
+351010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+201010,25,2,"25 Ann Arbor Saline to BTC",,1,5001,shp-25-07,2,2
+2422020,62,3,"62 UM State St to CCTC",,0,4502,shp-62-06,2,1
+1847070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2307,shp-42-03,2,2
+1687010,4,2,"4 Washtenaw to YTC",,0,1801,shp-4-53,2,2
+2433010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+1343020,23,3,"23 PP&R to BTC",,1,1202,shp-23-05,2,1
+1874020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+949010,5,2,"5 Packard to BTC",,1,2801,shp-5-05,2,2
+1216020,23,3,"23 PP&R to BTC",,1,1602,shp-23-05,2,1
+1039010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+4010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+1360010,5,2,"5 Packard to BTC",,1,3101,shp-5-05,2,2
+1406070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+1082020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,102,shp-25-08,2,2
+2020,5,3,"5 Packard to YTC",,0,2802,shp-5-55,2,2
+2313020,22,3,"22 Pontiac to BTC",,1,902,shp-22-03,2,2
+1560070,22,1,"22 Pontiac to BTC",,1,907,shp-22-03,2,2
+746020,3,3,"Huron River to BTC",,1,1002,shp-3-02,2,2
+120020,6,3,"6 Ellsworth to YTC",,0,3202,shp-6-60,2,2
+1772010,22,2,"22 Pontiac to BTC",,1,801,shp-22-03,2,2
+1140010,4,2,"4 Washtenaw to YTC",,0,1801,shp-4-53,2,2
+2023020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+66020,44,3,"44 Ecorse Tyler to West Willow",,0,2302,shp-44-02,2,2
+1422020,65,3,"65 Green Fuller to BTC",,1,202,shp-65-02,2,2
+1416070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+1260020,5,3,"5 Packard to YTC",,0,3102,shp-5-55,2,2
+2480010,42,2,"42 MacArthur Michigan to YTC",,1,2301,shp-42-52,2,2
+1974010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+2052020,22,3,"22 Pontiac to BTC",,1,1002,shp-22-03,2,2
+501010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+651020,62,3,"62 UM State St to Wolverine Tower",,1,4602,shp-62-52,2,1
+854070,4,1,"4 Washtenaw to BTC",,1,1807,shp-4-04,2,2
+734010,5,2,"5 Packard to YTC",,0,2901,shp-5-55,2,2
+1630010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1905010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+884020,3,3,"Huron River to BTC",,1,1002,shp-3-02,2,2
+1854020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,1002,shp-22-52,2,2
+1225070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+2668070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+1411010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4801,shp-65-52,2,2
+2280070,6,1,"6 Ellsworth to BTC",,1,3207,shp-6-09,2,2
+165070,25,1,"25 Ann Arbor Saline to BTC",,1,5007,shp-25-07,2,2
+853020,3,3,"Huron River to BTC",,1,902,shp-3-02,2,2
+172010,3,2,"Huron River to BTC",,1,1001,shp-3-02,2,2
+190020,65,3,"65 Green-Fuller to Green Rd P&R",,0,102,shp-65-52,2,2
+2069010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2401,shp-42-03,2,2
+94020,32,3,"32 Miller to Miller Rd P&R",,0,1302,shp-32-53,2,2
+429010,25,2,"25 Ann Arbor Saline to BTC",,1,4901,shp-25-07,2,2
+1613020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-04,2,2
+494010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+2192020,25,3,"25 Ann Arbor Saline to BTC",,1,202,shp-25-07,2,2
+533020,32,3,"32 Miller to Blake Transit Ctr",,1,1202,shp-32-05,2,2
+2076020,3,3,"Huron River to BTC",,1,702,shp-3-02,2,2
+2171010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,701,shp-22-52,2,2
+2541020,4,3,"4 Washtenaw to YTC",,0,2202,shp-4-53,2,2
+645020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+21010,3,2,"Huron River to YTC",,0,801,shp-3-51,2,2
+1053070,4,1,"4 Washtenaw to YTC",,0,1807,shp-4-53,2,2
+376020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1165070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+1420020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+1095010,32,2,"32 Miller to Miller Rd P&R",,0,1401,shp-32-53,2,2
+1272070,3,1,"Huron River to YTC",,0,807,shp-3-51,2,2
+2203070,4,1,"4 Washtenaw to YTC",,0,1707,shp-4-53,2,2
+569010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+309020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1801070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+1569070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+39020,5,3,"5 Packard to YTC",,0,3102,shp-5-55,2,2
+587010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+428020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2295010,25,2,"25 Ann Arbor Saline to BTC",,1,4801,shp-25-07,2,2
+1554020,32,3,"32 Miller to Blake Transit Ctr",,1,1402,shp-32-05,2,2
+532020,22,3,"22 Pontiac to BTC",,1,1002,shp-22-03,2,2
+1488020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,1002,shp-22-52,2,2
+401010,32,2,"32 Miller to Miller Rd P&R",,0,1101,shp-32-53,2,2
+170020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1465020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+115020,6,3,"6 Ellsworth to BTC",,1,3902,shp-6-09,2,2
+1396070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2307,shp-42-03,2,2
+2569020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+907070,22,1,"22 Pontiac to BTC",,1,907,shp-22-03,2,2
+1612020,3,3,"Huron River to YTC",,0,802,shp-3-51,2,2
+1859010,32,2,"32 Miller to Miller Rd P&R",,0,1101,shp-32-53,2,2
+171070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+2348010,32,2,"32 Miller to Miller Rd P&R",,0,1101,shp-32-53,2,2
+1312070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+856020,44,3,"44 Ecorse Tyler to West Willow",,0,2302,shp-44-02,2,2
+65070,6,1,"6 Ellsworth to BTC",,1,3407,shp-6-09,2,2
+1517010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1401,shp-23-58,2,1
+293010,22,2,"22 Pontiac to BTC",,1,1001,shp-22-03,2,2
+802020,6,3,"6 Ellsworth to YTC",,0,3902,shp-6-60,2,2
+2022010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2501,shp-42-03,2,2
+2000070,42,1,"42 MacArthur Michigan to YTC",,1,2407,shp-42-52,2,2
+1280010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+2389010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+2142010,32,2,"32 Miller to Miller Rd P&R",,0,1201,shp-32-53,2,2
+1159020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1102,shp-23-58,2,1
+1741070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+2439020,42,3,"42 MacArthur Michigan to YTC",,1,2302,shp-42-52,2,2
+1482070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1207,shp-23-58,2,1
+185020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2502,shp-42-03,2,2
+1601070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+2468020,62,3,"62 UM State St to Wolverine Tower",,1,4702,shp-62-52,2,1
+384020,32,3,"32 Miller to Blake Transit Ctr",,1,1302,shp-32-05,2,2
+2495020,32,3,"32 Miller to Blake Transit Ctr",,1,1602,shp-32-05,2,2
+2533020,62,3,"62 UM State St to Wolverine Tower",,1,4602,shp-62-52,2,1
+273010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+1570020,3,3,"Huron River to BTC",,1,702,shp-3-02,2,2
+811070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+1505070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4907,shp-25-08,2,2
+1504020,42,3,"42 MacArthur Michigan to YTC",,1,2302,shp-42-52,2,2
+1662020,5,3,"5 Packard to BTC",,1,3102,shp-5-05,2,2
+2220010,42,2,"42 MacArthur Michigan to YTC",,1,2401,shp-42-52,2,2
+879020,6,3,"6 Ellsworth to YTC",,0,3502,shp-6-60,2,2
+2242020,65,3,"65 Green-Fuller to Green Rd P&R",,0,102,shp-65-52,2,2
+1282010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+1802010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,801,shp-22-52,2,2
+796020,4,3,"4 Washtenaw to BTC",,1,1802,shp-4-04,2,2
+2305070,25,1,"25 Ann Arbor Saline to BTC",,1,5007,shp-25-07,2,2
+901070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+1002010,25,2,"25 Ann Arbor Saline to BTC",,1,5001,shp-25-07,2,2
+998070,32,1,"32 Miller to Blake Transit Ctr",,1,1107,shp-32-05,2,2
+449010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2401,shp-42-03,2,2
+2251070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,5007,shp-25-08,2,2
+2310070,44,1,"44 Ecorse Tyler to West Willow",,0,2507,shp-44-02,2,2
+936070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2507,shp-42-03,2,2
+1911020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+78020,23,3,"23 PP&R to BTC",,1,1302,shp-23-05,2,1
+1195010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+635010,5,2,"5 Packard to YTC",,0,2801,shp-5-55,2,2
+2441070,25,1,"25 Ann Arbor Saline to BTC",,1,5007,shp-25-07,2,2
+1020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2394020,42,3,"42 MacArthur Michigan to YTC",,1,2402,shp-42-52,2,2
+738010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+507010,5,2,"5 Packard to YTC",,0,2801,shp-5-55,2,2
+575010,6,2,"6 Ellsworth to BTC",,1,3301,shp-6-09,2,2
+1901010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1101,shp-23-58,2,1
+1812010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+1788070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+1168020,5,3,"5 Packard to BTC",,1,2902,shp-5-05,2,2
+786010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1301,shp-23-58,2,1
+303020,3,3,"Huron River to YTC",,0,1002,shp-3-51,2,2
+274070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+2197020,3,3,"Huron River to YTC",,0,702,shp-3-51,2,2
+1124020,3,3,"Huron River to YTC",,0,902,shp-3-51,2,2
+2601070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,707,shp-22-52,2,2
+681010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,901,shp-22-52,2,2
+1459070,32,1,"32 Miller to Blake Transit Ctr",,1,1107,shp-32-05,2,2
+1972070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+2662070,44,1,"44 Ecorse Tyler to West Willow",,0,2307,shp-44-02,2,2
+1621010,42,2,"42 MacArthur Michigan to YTC",,1,2401,shp-42-52,2,2
+1600070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2507,shp-42-03,2,2
+2631070,44,1,"44 Ecorse Tyler to West Willow",,0,2307,shp-44-02,2,2
+1544020,4,3,"4 Washtenaw to BTC",,1,2002,shp-4-04,2,2
+214020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+2417070,6,1,"6 Ellsworth to YTC",,0,3407,shp-6-60,2,2
+1845020,6,3,"6 Ellsworth to YTC",,0,3702,shp-6-60,2,2
+880070,44,1,"44 Ecorse Tyler to West Willow",,0,2507,shp-44-02,2,2
+365020,5,3,"5 Packard to YTC",,0,3002,shp-5-55,2,2
+1664010,44,2,"44 Ecorse Tyler to West Willow",,0,2301,shp-44-02,2,2
+1011020,23,3,"23 PP&R to BTC",,1,1202,shp-23-05,2,1
+291070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+1080070,44,1,"44 Ecorse Tyler to YTC",,1,2307,shp-44-52,2,2
+1156070,25,1,"25 Ann Arbor Saline to BTC",,1,4807,shp-25-07,2,2
+630010,3,2,"Huron River to YTC",,0,1001,shp-3-51,2,2
+1026010,32,2,"32 Miller to Miller Rd P&R",,0,1101,shp-32-53,2,2
+2608020,32,3,"32 Miller to Blake Transit Ctr",,1,1502,shp-32-05,2,2
+773070,6,1,"6 Ellsworth to YTC",,0,3507,shp-6-60,2,2
+628070,3,1,"Huron River to BTC",,1,907,shp-3-02,2,2
+2231020,4,3,"4 Washtenaw to YTC",,0,2002,shp-4-53,2,2
+2414070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+1527010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+1915010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2401,shp-42-03,2,2
+2587070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4807,shp-25-08,2,2
+1540020,32,3,"32 Miller to Blake Transit Ctr",,1,1102,shp-32-05,2,2
+77020,62,3,"62 UM State St to CCTC",,0,4402,shp-62-06,2,1
+989010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4901,shp-65-52,2,2
+941070,4,1,"4 Washtenaw to BTC",,1,1807,shp-4-04,2,2
+47010,5,2,"5 Packard to BTC",,1,3101,shp-5-05,2,2
+776070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+402020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+663020,25,3,"25 Ann Arbor Saline to BTC",,1,202,shp-25-07,2,2
+1581020,65,3,"65 Green Fuller to BTC",,1,102,shp-65-02,2,2
+2629020,23,3,"23 PP&R to BTC",,1,1602,shp-23-05,2,1
+290020,23,3,"23 PP&R to BTC",,1,1602,shp-23-05,2,1
+1955020,25,3,"25 Ann Arbor Saline to BTC",,1,302,shp-25-07,2,2
+1885010,44,2,"44 Ecorse Tyler to YTC",,1,2301,shp-44-52,2,2
+1338010,3,2,"Huron River to YTC",,0,701,shp-3-51,2,2
+443070,65,1,"65 Green Fuller to BTC",,1,5007,shp-65-02,2,2
+236020,4,3,"4 Washtenaw to YTC",,0,2102,shp-4-53,2,2
+1882070,4,1,"4 Washtenaw to BTC",,1,1807,shp-4-04,2,2
+1182070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4807,shp-25-08,2,2
+920010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2501,shp-42-03,2,2
+1726010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+2444020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1202,shp-23-58,2,1
+590070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+1698070,4,1,"4 Washtenaw to BTC",,1,1907,shp-4-04,2,2
+1578010,3,2,"Huron River to BTC",,1,1001,shp-3-02,2,2
+1253020,44,3,"44 Ecorse Tyler to West Willow",,0,2402,shp-44-02,2,2
+1573010,44,2,"44 Ecorse Tyler to West Willow",,0,2501,shp-44-02,2,2
+1016020,4,3,"4 Washtenaw to YTC",,0,1802,shp-4-53,2,2
+1449020,3,3,"Huron River to BTC",,1,802,shp-3-02,2,2
+125020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+209070,65,1,"65 Green Fuller to BTC",,1,5007,shp-65-02,2,2
+372070,44,1,"44 Ecorse Tyler to YTC",,1,2307,shp-44-52,2,2
+2440020,4,3,"4 Washtenaw to YTC",,0,2102,shp-4-53,2,2
+1832010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+297010,42,2,"42 MacArthur Michigan to YTC",,1,2501,shp-42-52,2,2
+486020,4,3,"4 Washtenaw to YTC",,0,1702,shp-4-53,2,2
+188010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+1929070,65,1,"65 Green-Fuller to Green Rd P&R",,0,5007,shp-65-52,2,2
+1935010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+407070,3,1,"Huron River to YTC",,0,707,shp-3-51,2,2
+419070,6,1,"6 Ellsworth to YTC",,0,3407,shp-6-60,2,2
+1315010,32,2,"32 Miller to Miller Rd P&R",,0,1401,shp-32-53,2,2
+1104010,4,2,"4 Washtenaw to BTC",,1,1701,shp-4-04,2,2
+1025020,65,3,"65 Green-Fuller to Green Rd P&R",,0,202,shp-65-52,2,2
+2324070,32,1,"32 Miller to Blake Transit Ctr",,1,1207,shp-32-05,2,2
+1462010,23,2,"23 PP&R to BTC",,1,1401,shp-23-05,2,1
+2472070,5,1,"5 Packard to YTC",,0,3007,shp-5-55,2,2
+354070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4907,shp-65-52,2,2
+1695010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+2445020,4,3,"4 Washtenaw to BTC",,1,1702,shp-4-04,2,2
+1721020,6,3,"6 Ellsworth to YTC",,0,3702,shp-6-60,2,2
+1000010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,5001,shp-25-08,2,2
+16070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+1956020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1525010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+2303020,4,3,"4 Washtenaw to YTC",,0,2202,shp-4-53,2,2
+1501010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+446010,4,2,"4 Washtenaw to BTC",,1,1801,shp-4-04,2,2
+2359020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+1143070,23,1,"23 PP&R to BTC",,1,1307,shp-23-05,2,1
+250010,23,2,"23 PP&R to BTC",,1,1201,shp-23-05,2,1
+2346070,32,1,"32 Miller to Miller Rd P&R",,0,1107,shp-32-53,2,2
+2100020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+515070,5,1,"5 Packard to YTC",,0,2907,shp-5-55,2,2
+438020,44,3,"44 Ecorse Tyler to YTC",,1,2402,shp-44-52,2,2
+1904020,65,3,"65 Green Fuller to BTC",,1,202,shp-65-02,2,2
+2063020,4,3,"4 Washtenaw to YTC",,0,1802,shp-4-53,2,2
+2215020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2502,shp-42-03,2,2
+876070,32,1,"32 Miller to Miller Rd P&R",,0,1107,shp-32-53,2,2
+523010,6,2,"6 Ellsworth to YTC",,0,3401,shp-6-60,2,2
+1024010,44,2,"44 Ecorse Tyler to West Willow",,0,2301,shp-44-02,2,2
+2492020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+1653020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2402,shp-42-03,2,2
+889010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4801,shp-65-52,2,2
+1441020,25,3,"25 Ann Arbor Saline to BTC",,1,102,shp-25-07,2,2
+1617020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+1483020,4,3,"4 Washtenaw to BTC",,1,1902,shp-4-04,2,2
+1562020,25,3,"25 Ann Arbor Saline to BTC",,1,202,shp-25-07,2,2
+1789070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2407,shp-42-03,2,2
+690010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+2285020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1202,shp-23-58,2,1
+333020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+2454010,65,2,"65 Green-Fuller to Green Rd P&R",,0,5001,shp-65-52,2,2
+898070,23,1,"23 PP&R to BTC",,1,1207,shp-23-05,2,1
+1487020,23,3,"23 PP&R to BTC",,1,1102,shp-23-05,2,1
+695010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+483010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+517020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-04,2,2
+1014020,65,3,"65 Green Fuller to BTC",,1,202,shp-65-02,2,2
+2656020,5,3,"5 Packard to BTC",,1,2802,shp-5-05,2,2
+727020,4,3,"4 Washtenaw to YTC",,0,2002,shp-4-53,2,2
+1464070,6,1,"6 Ellsworth to YTC",,0,3507,shp-6-60,2,2
+2526010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+2320020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,202,shp-25-08,2,2
+1328020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+2258070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,807,shp-22-52,2,2
+1189010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4801,shp-25-08,2,2
+2318070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+574070,5,1,"5 Packard to YTC",,0,3007,shp-5-55,2,2
+2420010,22,2,"22 Pontiac to BTC",,1,801,shp-22-03,2,2
+2379020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+2094010,44,2,"44 Ecorse Tyler to YTC",,1,2501,shp-44-52,2,2
+199070,65,1,"65 Green Fuller to BTC",,1,5007,shp-65-02,2,2
+1689070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+1619020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+2600070,4,1,"4 Washtenaw to YTC",,0,1707,shp-4-53,2,2
+1771020,6,3,"6 Ellsworth to BTC",,1,3502,shp-6-09,2,2
+267020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+415010,44,2,"44 Ecorse Tyler to West Willow",,0,2401,shp-44-02,2,2
+1167070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4907,shp-65-52,2,2
+826010,44,2,"44 Ecorse Tyler to West Willow",,0,2401,shp-44-02,2,2
+705020,23,3,"23 PP&R to BTC",,1,1102,shp-23-05,2,1
+1815020,32,3,"32 Miller to Miller Rd P&R",,0,1502,shp-32-53,2,2
+2246020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+40010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+105010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+2332020,23,3,"23 PP&R to BTC",,1,1302,shp-23-05,2,1
+836020,5,3,"5 Packard to BTC",,1,3002,shp-5-05,2,2
+721070,3,1,"Huron River to YTC",,0,907,shp-3-51,2,2
+1625070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+2321070,65,1,"65 Green Fuller to BTC",,1,4807,shp-65-02,2,2
+527020,4,3,"4 Washtenaw to BTC",,1,2102,shp-4-04,2,2
+900020,5,3,"5 Packard to BTC",,1,3102,shp-5-05,2,2
+2144010,3,2,"Huron River to BTC",,1,901,shp-3-02,2,2
+2557070,23,1,"23 PP&R to BTC",,1,1307,shp-23-05,2,1
+1298010,32,2,"32 Miller to Miller Rd P&R",,0,1401,shp-32-53,2,2
+835020,4,3,"4 Washtenaw to BTC",,1,2102,shp-4-04,2,2
+2410070,4,1,"4 Washtenaw to YTC",,0,1807,shp-4-53,2,2
+1713020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1378010,44,2,"44 Ecorse Tyler to West Willow",,0,2301,shp-44-02,2,2
+995010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+2209020,6,3,"6 Ellsworth to YTC",,0,3402,shp-6-60,2,2
+2450070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4907,shp-65-52,2,2
+202020,23,3,"23 PP&R to BTC",,1,1102,shp-23-05,2,1
+144010,3,2,"Huron River to BTC",,1,1001,shp-3-02,2,2
+1622010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,801,shp-22-52,2,2
+915020,44,3,"44 Ecorse Tyler to West Willow",,0,2502,shp-44-02,2,2
+432010,42,2,"42 MacArthur Michigan to YTC",,1,2501,shp-42-52,2,2
+2555010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1201,shp-23-58,2,1
+1982010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,701,shp-22-52,2,2
+1923020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+2228070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+2336020,4,3,"4 Washtenaw to YTC",,0,1702,shp-4-53,2,2
+1924010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+801010,6,2,"6 Ellsworth to YTC",,0,3501,shp-6-60,2,2
+1791020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+306020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1102,shp-23-58,2,1
+2669010,65,2,"65 Green Fuller to BTC",,1,5001,shp-65-02,2,2
+131070,32,1,"32 Miller to Miller Rd P&R",,0,1207,shp-32-53,2,2
+2239070,32,1,"32 Miller to Blake Transit Ctr",,1,1107,shp-32-05,2,2
+2482070,44,1,"44 Ecorse Tyler to YTC",,1,2307,shp-44-52,2,2
+2660020,23,3,"23 PP&R to BTC",,1,1302,shp-23-05,2,1
+1526020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1602,shp-23-58,2,1
+216020,42,3,"42 MacArthur Michigan to YTC",,1,2502,shp-42-52,2,2
+588020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1020070,32,1,"32 Miller to Miller Rd P&R",,0,1307,shp-32-53,2,2
+1846020,44,3,"44 Ecorse Tyler to YTC",,1,2302,shp-44-52,2,2
+284020,5,3,"5 Packard to YTC",,0,3002,shp-5-55,2,2
+1386070,3,1,"Huron River to BTC",,1,907,shp-3-02,2,2
+2522020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+1593020,4,3,"4 Washtenaw to BTC",,1,2102,shp-4-04,2,2
+571010,3,2,"Huron River to YTC",,0,701,shp-3-51,2,2
+2187020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2502,shp-42-03,2,2
+1325070,23,1,"23 PP&R to BTC",,1,1207,shp-23-05,2,1
+264020,6,3,"6 Ellsworth to YTC",,0,3902,shp-6-60,2,2
+2478010,6,2,"6 Ellsworth to YTC",,0,3301,shp-6-60,2,2
+1207070,25,1,"25 Ann Arbor Saline to BTC",,1,4807,shp-25-07,2,2
+1073070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1407,shp-23-58,2,1
+1258010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+79070,25,1,"25 Ann Arbor Saline to BTC",,1,4807,shp-25-07,2,2
+2292010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1101,shp-23-58,2,1
+1078010,5,2,"5 Packard to BTC",,1,3001,shp-5-05,2,2
+127020,6,3,"6 Ellsworth to YTC",,0,3702,shp-6-60,2,2
+2114010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1401,shp-23-58,2,1
+1778020,23,3,"23 PP&R to BTC",,1,1102,shp-23-05,2,1
+2248020,4,3,"4 Washtenaw to BTC",,1,1802,shp-4-04,2,2
+987020,65,3,"65 Green-Fuller to Green Rd P&R",,0,302,shp-65-52,2,2
+2400070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,1007,shp-22-52,2,2
+1510020,4,3,"4 Washtenaw to YTC",,0,2202,shp-4-53,2,2
+1278070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+1187070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+740020,6,3,"6 Ellsworth to BTC",,1,3402,shp-6-09,2,2
+928070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+2343010,23,2,"23 PP&R to BTC",,1,1101,shp-23-05,2,1
+1391020,32,3,"32 Miller to Miller Rd P&R",,0,1302,shp-32-53,2,2
+1059020,23,3,"23 PP&R to BTC",,1,1602,shp-23-05,2,1
+2430020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1317010,6,2,"6 Ellsworth to BTC",,1,3301,shp-6-09,2,2
+1939010,22,2,"22 Pontiac to BTC",,1,701,shp-22-03,2,2
+874070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1407,shp-23-58,2,1
+1870020,4,3,"4 Washtenaw to YTC",,0,2202,shp-4-53,2,2
+2630010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,1001,shp-22-52,2,2
+1776020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,702,shp-22-52,2,2
+301020,23,3,"23 PP&R to BTC",,1,1302,shp-23-05,2,1
+436020,6,3,"6 Ellsworth to BTC",,1,3902,shp-6-09,2,2
+1692020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+72070,32,1,"32 Miller to Blake Transit Ctr",,1,1307,shp-32-05,2,2
+1138020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2302,shp-42-03,2,2
+922010,32,2,"32 Miller to Blake Transit Ctr",,1,1101,shp-32-05,2,2
+2059020,44,3,"44 Ecorse Tyler to YTC",,1,2302,shp-44-52,2,2
+1852020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-04,2,2
+1111020,62,3,"62 UM State St to Wolverine Tower",,1,4702,shp-62-52,2,1
+2598010,44,2,"44 Ecorse Tyler to YTC",,1,2301,shp-44-52,2,2
+1514070,42,1,"42 MacArthur Michigan to YTC",,1,2307,shp-42-52,2,2
+789020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+2408070,44,1,"44 Ecorse Tyler to YTC",,1,2507,shp-44-52,2,2
+1043070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+931070,5,1,"5 Packard to YTC",,0,3007,shp-5-55,2,2
+771010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+2113020,22,3,"22 Pontiac to BTC",,1,702,shp-22-03,2,2
+1110010,65,2,"65 Green Fuller to BTC",,1,5001,shp-65-02,2,2
+1451010,6,2,"6 Ellsworth to BTC",,1,3501,shp-6-09,2,2
+2020020,3,3,"Huron River to YTC",,0,802,shp-3-51,2,2
+2225070,44,1,"44 Ecorse Tyler to YTC",,1,2407,shp-44-52,2,2
+1450070,22,1,"22 Pontiac to BTC",,1,807,shp-22-03,2,2
+1254070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,907,shp-22-52,2,2
+134070,23,1,"23 PP&R to BTC",,1,1407,shp-23-05,2,1
+1594070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2507,shp-42-03,2,2
+528010,32,2,"32 Miller to Blake Transit Ctr",,1,1301,shp-32-05,2,2
+497070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,907,shp-22-52,2,2
+2404020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+380070,5,1,"5 Packard to BTC",,1,2907,shp-5-05,2,2
+33010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+2092070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+2665010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,701,shp-22-52,2,2
+418070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+848010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+1574010,5,2,"5 Packard to YTC",,0,2901,shp-5-55,2,2
+1970070,32,1,"32 Miller to Blake Transit Ctr",,1,1407,shp-32-05,2,2
+2345020,5,3,"5 Packard to YTC",,0,2902,shp-5-55,2,2
+1009070,25,1,"25 Ann Arbor Saline to BTC",,1,4907,shp-25-07,2,2
+322070,5,1,"5 Packard to YTC",,0,2807,shp-5-55,2,2
+1777070,25,1,"25 Ann Arbor Saline to BTC",,1,4907,shp-25-07,2,2
+2025020,22,3,"22 Pontiac to BTC",,1,1002,shp-22-03,2,2
+2190070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+2553070,3,1,"Huron River to BTC",,1,1007,shp-3-02,2,2
+1743070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+2447010,25,2,"25 Ann Arbor Saline to BTC",,1,4801,shp-25-07,2,2
+1300010,65,2,"65 Green Fuller to BTC",,1,4801,shp-65-02,2,2
+1454010,4,2,"4 Washtenaw to BTC",,1,1801,shp-4-04,2,2
+1724020,4,3,"4 Washtenaw to BTC",,1,2002,shp-4-04,2,2
+927020,65,3,"65 Green Fuller to BTC",,1,102,shp-65-02,2,2
+1275020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1202,shp-23-58,2,1
+1712020,6,3,"6 Ellsworth to BTC",,1,3902,shp-6-09,2,2
+140020,46,3,"Paint Creek to YTC",,1,2602,shp-46-52,2,2
+1967020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1302,shp-23-58,2,1
+806020,22,3,"22 Pontiac to BTC",,1,702,shp-22-03,2,2
+128020,3,3,"Huron River to YTC",,0,902,shp-3-51,2,2
+1089010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+2241020,44,3,"44 Ecorse Tyler to YTC",,1,2302,shp-44-52,2,2
+2152020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2302,shp-42-03,2,2
+2154070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+1481070,4,1,"4 Washtenaw to BTC",,1,1707,shp-4-04,2,2
+1678020,46,3,"Paint Creek to YTC",,1,2602,shp-46-52,2,2
+139020,25,3,"25 Ann Arbor Saline to BTC",,1,102,shp-25-07,2,2
+2341010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+137020,62,3,"62 UM State St to CCTC",,0,4602,shp-62-06,2,1
+703020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1920010,32,2,"32 Miller to Blake Transit Ctr",,1,1401,shp-32-05,2,2
+1037010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,901,shp-22-52,2,2
+1844070,32,1,"32 Miller to Blake Transit Ctr",,1,1107,shp-32-05,2,2
+1334020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+1242070,4,1,"4 Washtenaw to YTC",,0,1907,shp-4-53,2,2
+1774070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1107,shp-23-58,2,1
+305070,6,1,"6 Ellsworth to YTC",,0,3307,shp-6-60,2,2
+2026010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+2463070,65,1,"65 Green-Fuller to Green Rd P&R",,0,5007,shp-65-52,2,2
+259070,4,1,"4 Washtenaw to YTC",,0,1907,shp-4-53,2,2
+2448020,4,3,"4 Washtenaw to YTC",,0,1802,shp-4-53,2,2
+2354070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1307,shp-23-58,2,1
+64020,42,3,"42 MacArthur Michigan to YTC",,1,2302,shp-42-52,2,2
+784010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+1762020,3,3,"Huron River to BTC",,1,902,shp-3-02,2,2
+2388070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1703020,4,3,"4 Washtenaw to BTC",,1,1902,shp-4-04,2,2
+965020,23,3,"23 PP&R to BTC",,1,1302,shp-23-05,2,1
+1954010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+511070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+150010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+324020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1113020,65,3,"65 Green Fuller to BTC",,1,302,shp-65-02,2,2
+1393020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+1212020,44,3,"44 Ecorse Tyler to YTC",,1,2402,shp-44-52,2,2
+1862010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2301,shp-42-03,2,2
+2330070,65,1,"65 Green Fuller to BTC",,1,4907,shp-65-02,2,2
+1579020,32,3,"32 Miller to Blake Transit Ctr",,1,1202,shp-32-05,2,2
+148020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+1162010,3,2,"Huron River to BTC",,1,901,shp-3-02,2,2
+1663010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+713070,3,1,"Huron River to BTC",,1,907,shp-3-02,2,2
+601010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+929070,25,1,"25 Ann Arbor Saline to BTC",,1,5007,shp-25-07,2,2
+2236020,6,3,"6 Ellsworth to BTC",,1,3302,shp-6-09,2,2
+2301020,23,3,"23 PP&R to BTC",,1,1402,shp-23-05,2,1
+471070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+1264010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+1587020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1390020,32,3,"32 Miller to Blake Transit Ctr",,1,1602,shp-32-05,2,2
+1326020,5,3,"5 Packard to YTC",,0,3102,shp-5-55,2,2
+2590020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1302,shp-23-58,2,1
+852020,65,3,"65 Green Fuller to BTC",,1,202,shp-65-02,2,2
+2550020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1202,shp-23-58,2,1
+1725010,5,2,"5 Packard to BTC",,1,2901,shp-5-05,2,2
+2572070,42,1,"42 MacArthur Michigan to YTC",,1,2507,shp-42-52,2,2
+2264020,44,3,"44 Ecorse Tyler to West Willow",,0,2302,shp-44-02,2,2
+257020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2041070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4807,shp-65-52,2,2
+226070,44,1,"44 Ecorse Tyler to West Willow",,0,2307,shp-44-02,2,2
+89010,6,2,"6 Ellsworth to YTC",,0,3501,shp-6-60,2,2
+716020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-04,2,2
+2556070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1207,shp-23-58,2,1
+1900020,4,3,"4 Washtenaw to YTC",,0,2202,shp-4-53,2,2
+2546070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+2235070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+676010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+2655010,3,2,"Huron River to YTC",,0,1001,shp-3-51,2,2
+849070,65,1,"65 Green Fuller to BTC",,1,4807,shp-65-02,2,2
+1155010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1101,shp-23-58,2,1
+2186020,6,3,"6 Ellsworth to YTC",,0,3902,shp-6-60,2,2
+1289020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+934070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+1193020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+685010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+176010,32,2,"32 Miller to Miller Rd P&R",,0,1101,shp-32-53,2,2
+405070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+136070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+154020,4,3,"4 Washtenaw to YTC",,0,2102,shp-4-53,2,2
+636020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+862020,5,3,"5 Packard to YTC",,0,3002,shp-5-55,2,2
+1327070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2407,shp-42-03,2,2
+1302020,6,3,"6 Ellsworth to YTC",,0,4102,shp-6-60,2,2
+1186020,65,3,"65 Green-Fuller to Green Rd P&R",,0,202,shp-65-52,2,2
+1238010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1301,shp-23-58,2,1
+210010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4901,shp-65-52,2,2
+126010,44,2,"44 Ecorse Tyler to West Willow",,0,2501,shp-44-02,2,2
+2125020,4,3,"4 Washtenaw to BTC",,1,1802,shp-4-04,2,2
+960020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1502,shp-23-58,2,1
+490020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+2085020,6,3,"6 Ellsworth to BTC",,1,3502,shp-6-09,2,2
+386070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1107,shp-23-58,2,1
+2558010,3,2,"Huron River to BTC",,1,801,shp-3-02,2,2
+1631010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+694070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+433070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4907,shp-25-08,2,2
+2659020,3,3,"Huron River to BTC",,1,802,shp-3-02,2,2
+466020,23,3,"23 PP&R to BTC",,1,1202,shp-23-05,2,1
+450010,4,2,"4 Washtenaw to YTC",,0,1901,shp-4-53,2,2
+1263010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1201,shp-23-58,2,1
+955070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+1715020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+2577070,23,1,"23 PP&R to BTC",,1,1207,shp-23-05,2,1
+1178070,44,1,"44 Ecorse Tyler to West Willow",,0,2407,shp-44-02,2,2
+452070,6,1,"6 Ellsworth to BTC",,1,3407,shp-6-09,2,2
+792010,3,2,"Huron River to YTC",,0,901,shp-3-51,2,2
+108010,6,2,"6 Ellsworth to BTC",,1,3401,shp-6-09,2,2
+1215020,23,3,"23 PP&R to BTC",,1,1502,shp-23-05,2,1
+2262010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,1001,shp-22-52,2,2
+2500010,22,2,"22 Pontiac to BTC",,1,701,shp-22-03,2,2
+1307020,23,3,"23 PP&R to BTC",,1,1402,shp-23-05,2,1
+1969020,32,3,"32 Miller to Miller Rd P&R",,0,1502,shp-32-53,2,2
+2469070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+1389020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+2457020,44,3,"44 Ecorse Tyler to YTC",,1,2502,shp-44-52,2,2
+2322020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+489010,25,2,"25 Ann Arbor Saline to BTC",,1,5001,shp-25-07,2,2
+1533020,25,3,"25 Ann Arbor Saline to BTC",,1,102,shp-25-07,2,2
+323020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1592020,44,3,"44 Ecorse Tyler to West Willow",,0,2302,shp-44-02,2,2
+980070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2507,shp-42-03,2,2
+1296070,44,1,"44 Ecorse Tyler to West Willow",,0,2507,shp-44-02,2,2
+829020,3,3,"Huron River to BTC",,1,1002,shp-3-02,2,2
+1277020,3,3,"Huron River to YTC",,0,902,shp-3-51,2,2
+1636010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+2538010,42,2,"42 MacArthur Michigan to YTC",,1,2301,shp-42-52,2,2
+1142070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+1884010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+1200010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4801,shp-65-52,2,2
+610020,22,3,"22 Pontiac to BTC",,1,1002,shp-22-03,2,2
+1610020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1130020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1580010,4,2,"4 Washtenaw to BTC",,1,1901,shp-4-04,2,2
+1512020,5,3,"5 Packard to YTC",,0,2902,shp-5-55,2,2
+1644020,65,3,"65 Green-Fuller to Green Rd P&R",,0,202,shp-65-52,2,2
+1893070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+2053020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2402,shp-42-03,2,2
+2005010,3,2,"Huron River to BTC",,1,1001,shp-3-02,2,2
+1916010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+130020,6,3,"6 Ellsworth to BTC",,1,3602,shp-6-09,2,2
+1480010,3,2,"Huron River to BTC",,1,901,shp-3-02,2,2
+1057020,25,3,"25 Ann Arbor Saline to BTC",,1,202,shp-25-07,2,2
+1696020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+263020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,302,shp-25-08,2,2
+1136020,6,3,"6 Ellsworth to BTC",,1,3802,shp-6-09,2,2
+227010,4,2,"4 Washtenaw to YTC",,0,1901,shp-4-53,2,2
+1779020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,102,shp-25-08,2,2
+1699020,42,3,"42 MacArthur Michigan to YTC",,1,2502,shp-42-52,2,2
+909070,23,1,"23 PP&R to BTC",,1,1407,shp-23-05,2,1
+119020,4,3,"4 Washtenaw to YTC",,0,1902,shp-4-53,2,2
+1827020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+714020,5,3,"5 Packard to BTC",,1,2802,shp-5-05,2,2
+1379020,22,3,"22 Pontiac to BTC",,1,902,shp-22-03,2,2
+1084010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+381020,32,3,"32 Miller to Miller Rd P&R",,0,1602,shp-32-53,2,2
+1564070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+2647070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+563070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+897010,5,2,"5 Packard to YTC",,0,3101,shp-5-55,2,2
+225020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+808010,3,2,"Huron River to BTC",,1,1001,shp-3-02,2,2
+832020,4,3,"4 Washtenaw to YTC",,0,1902,shp-4-53,2,2
+1586070,42,1,"42 MacArthur Michigan to YTC",,1,2307,shp-42-52,2,2
+442020,6,3,"6 Ellsworth to BTC",,1,3802,shp-6-09,2,2
+1442070,6,1,"6 Ellsworth to BTC",,1,3307,shp-6-09,2,2
+2402070,42,1,"42 MacArthur Michigan to YTC",,1,2507,shp-42-52,2,2
+1895020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1302,shp-23-58,2,1
+700070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+1652070,42,1,"42 MacArthur Michigan to YTC",,1,2307,shp-42-52,2,2
+1850070,23,1,"23 PP&R to BTC",,1,1307,shp-23-05,2,1
+2390020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1602,shp-23-58,2,1
+2513020,6,3,"6 Ellsworth to BTC",,1,4302,shp-6-09,2,2
+22010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+18020,6,3,"6 Ellsworth to BTC",,1,3702,shp-6-09,2,2
+1192010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1201,shp-23-58,2,1
+48020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1362010,44,2,"44 Ecorse Tyler to West Willow",,0,2401,shp-44-02,2,2
+2479020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+218070,65,1,"65 Green-Fuller to Green Rd P&R",,0,5007,shp-65-52,2,2
+594070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+2470020,3,3,"Huron River to BTC",,1,702,shp-3-02,2,2
+310010,25,2,"25 Ann Arbor Saline to BTC",,1,4901,shp-25-07,2,2
+414070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+2257020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+1566010,32,2,"32 Miller to Blake Transit Ctr",,1,1401,shp-32-05,2,2
+461020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+329070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1207,shp-23-58,2,1
+780070,22,1,"22 Pontiac to BTC",,1,707,shp-22-03,2,2
+603070,23,1,"23 PP&R to BTC",,1,1407,shp-23-05,2,1
+2159070,42,1,"42 MacArthur Michigan to YTC",,1,2407,shp-42-52,2,2
+805070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+1548020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+7070,6,1,"6 Ellsworth to BTC",,1,3507,shp-6-09,2,2
+1174010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+2570020,42,3,"42 MacArthur Michigan to YTC",,1,2402,shp-42-52,2,2
+35010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+2476070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+765020,22,3,"22 Pontiac to BTC",,1,902,shp-22-03,2,2
+2356010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+1878020,3,3,"Huron River to YTC",,0,1002,shp-3-51,2,2
+2057010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2401,shp-42-03,2,2
+812010,6,2,"6 Ellsworth to BTC",,1,3201,shp-6-09,2,2
+1966020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2502,shp-42-03,2,2
+516020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+50010,4,2,"4 Washtenaw to YTC",,0,1901,shp-4-53,2,2
+298010,3,2,"Huron River to BTC",,1,1001,shp-3-02,2,2
+1303070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1307,shp-23-58,2,1
+2377010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+1690020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+971010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4901,shp-25-08,2,2
+478010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+1181020,46,3,"Paint Creek to YTC",,1,2602,shp-46-52,2,2
+885070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,707,shp-22-52,2,2
+1128020,23,3,"23 PP&R to BTC",,1,1502,shp-23-05,2,1
+1880010,44,2,"44 Ecorse Tyler to YTC",,1,2401,shp-44-52,2,2
+1283010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+2101010,32,2,"32 Miller to Blake Transit Ctr",,1,1301,shp-32-05,2,2
+1453070,44,1,"44 Ecorse Tyler to YTC",,1,2507,shp-44-52,2,2
+2349070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,707,shp-22-52,2,2
+1329070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+2456010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+2328010,23,2,"23 PP&R to BTC",,1,1101,shp-23-05,2,1
+318020,6,3,"6 Ellsworth to BTC",,1,3502,shp-6-09,2,2
+224070,22,1,"22 Pontiac to BTC",,1,907,shp-22-03,2,2
+670010,25,2,"25 Ann Arbor Saline to BTC",,1,4801,shp-25-07,2,2
+1660010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+839070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+2488020,5,3,"5 Packard to YTC",,0,2802,shp-5-55,2,2
+1235070,44,1,"44 Ecorse Tyler to YTC",,1,2307,shp-44-52,2,2
+1349070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+410020,5,3,"5 Packard to YTC",,0,2802,shp-5-55,2,2
+1962070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+2017010,32,2,"32 Miller to Blake Transit Ctr",,1,1101,shp-32-05,2,2
+107070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1739070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4807,shp-25-08,2,2
+2238070,44,1,"44 Ecorse Tyler to West Willow",,0,2407,shp-44-02,2,2
+2326020,4,3,"4 Washtenaw to BTC",,1,1902,shp-4-04,2,2
+1477020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+2001020,62,3,"62 UM State St to CCTC",,0,4602,shp-62-06,2,1
+606010,5,2,"5 Packard to YTC",,0,2801,shp-5-55,2,2
+425070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4807,shp-65-52,2,2
+2614070,4,1,"4 Washtenaw to BTC",,1,1907,shp-4-04,2,2
+2382010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+661020,22,3,"22 Pontiac to BTC",,1,802,shp-22-03,2,2
+2421070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1738020,62,3,"62 UM State St to Wolverine Tower",,1,4702,shp-62-52,2,1
+2568020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1102,shp-23-58,2,1
+2279070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+2644020,42,3,"42 MacArthur Michigan to YTC",,1,2302,shp-42-52,2,2
+460020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+2458010,5,2,"5 Packard to YTC",,0,3001,shp-5-55,2,2
+146010,4,2,"4 Washtenaw to BTC",,1,1901,shp-4-04,2,2
+892020,62,3,"62 UM State St to CCTC",,0,4402,shp-62-06,2,1
+1436010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+2672010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+2506020,22,3,"22 Pontiac to BTC",,1,902,shp-22-03,2,2
+272020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1119020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,902,shp-22-52,2,2
+1158010,25,2,"25 Ann Arbor Saline to BTC",,1,4801,shp-25-07,2,2
+2207070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4807,shp-65-52,2,2
+1146010,4,2,"4 Washtenaw to YTC",,0,1901,shp-4-53,2,2
+1438070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+166020,65,3,"65 Green Fuller to BTC",,1,102,shp-65-02,2,2
+357020,4,3,"4 Washtenaw to BTC",,1,2102,shp-4-04,2,2
+1076010,3,2,"Huron River to YTC",,0,901,shp-3-51,2,2
+1732020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+2576010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+2331070,3,1,"Huron River to YTC",,0,907,shp-3-51,2,2
+1497070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+1092070,23,1,"23 PP&R to BTC",,1,1207,shp-23-05,2,1
+678020,62,3,"62 UM State St to CCTC",,0,4602,shp-62-06,2,1
+49070,65,1,"65 Green Fuller to BTC",,1,5007,shp-65-02,2,2
+1107020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,202,shp-25-08,2,2
+1291010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+1717010,22,2,"22 Pontiac to BTC",,1,901,shp-22-03,2,2
+1188020,5,3,"5 Packard to BTC",,1,3102,shp-5-05,2,2
+1038070,32,1,"32 Miller to Miller Rd P&R",,0,1307,shp-32-53,2,2
+464010,4,2,"4 Washtenaw to YTC",,0,1801,shp-4-53,2,2
+550020,4,3,"4 Washtenaw to YTC",,0,2102,shp-4-53,2,2
+1429020,6,3,"6 Ellsworth to BTC",,1,3702,shp-6-09,2,2
+1753010,3,2,"Huron River to YTC",,0,701,shp-3-51,2,2
+2494020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+1977010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+396020,65,3,"65 Green-Fuller to Green Rd P&R",,0,102,shp-65-52,2,2
+1931020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+383070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,907,shp-22-52,2,2
+285010,3,2,"Huron River to YTC",,0,901,shp-3-51,2,2
+2606020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+620070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4907,shp-25-08,2,2
+782010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1066020,65,3,"65 Green Fuller to BTC",,1,102,shp-65-02,2,2
+1828010,44,2,"44 Ecorse Tyler to YTC",,1,2401,shp-44-52,2,2
+1476020,5,3,"5 Packard to YTC",,0,2802,shp-5-55,2,2
+1358070,42,1,"42 MacArthur Michigan to YTC",,1,2507,shp-42-52,2,2
+2118070,32,1,"32 Miller to Blake Transit Ctr",,1,1307,shp-32-05,2,2
+1294020,4,3,"4 Washtenaw to BTC",,1,1902,shp-4-04,2,2
+1595020,62,3,"62 UM State St to CCTC",,0,4602,shp-62-06,2,1
+638020,44,3,"44 Ecorse Tyler to YTC",,1,2402,shp-44-52,2,2
+2134020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1340010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+160010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,1001,shp-22-52,2,2
+749070,3,1,"Huron River to BTC",,1,707,shp-3-02,2,2
+1806070,6,1,"6 Ellsworth to BTC",,1,3507,shp-6-09,2,2
+349010,5,2,"5 Packard to BTC",,1,2901,shp-5-05,2,2
+2369010,22,2,"22 Pontiac to BTC",,1,701,shp-22-03,2,2
+793020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1502,shp-23-58,2,1
+26020,32,3,"32 Miller to Blake Transit Ctr",,1,1102,shp-32-05,2,2
+1829020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1006020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+2461070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,807,shp-22-52,2,2
+1671010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+300010,5,2,"5 Packard to BTC",,1,2801,shp-5-05,2,2
+253020,6,3,"6 Ellsworth to YTC",,0,3902,shp-6-60,2,2
+1431020,44,3,"44 Ecorse Tyler to YTC",,1,2302,shp-44-52,2,2
+1234070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1107,shp-23-58,2,1
+1206020,65,3,"65 Green-Fuller to Green Rd P&R",,0,202,shp-65-52,2,2
+2119010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+1841070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,807,shp-22-52,2,2
+1377010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+1017020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+2291020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1079010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,5001,shp-25-08,2,2
+117010,3,2,"Huron River to BTC",,1,901,shp-3-02,2,2
+1822020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2402,shp-42-03,2,2
+1205020,25,3,"25 Ann Arbor Saline to BTC",,1,302,shp-25-07,2,2
+1204010,32,2,"32 Miller to Blake Transit Ctr",,1,1401,shp-32-05,2,2
+412020,44,3,"44 Ecorse Tyler to West Willow",,0,2302,shp-44-02,2,2
+1831010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4801,shp-25-08,2,2
+1668020,32,3,"32 Miller to Miller Rd P&R",,0,1102,shp-32-53,2,2
+2446020,32,3,"32 Miller to Miller Rd P&R",,0,1602,shp-32-53,2,2
+869010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+1745070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+2055070,22,1,"22 Pontiac to BTC",,1,1007,shp-22-03,2,2
+2201020,4,3,"4 Washtenaw to BTC",,1,2202,shp-4-04,2,2
+1839010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2301,shp-42-03,2,2
+961020,44,3,"44 Ecorse Tyler to YTC",,1,2502,shp-44-52,2,2
+2649070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,907,shp-22-52,2,2
+627010,23,2,"23 PP&R to BTC",,1,1101,shp-23-05,2,1
+2037020,46,3,"46 Paint Creek to YTC",,1,2602,shp-46-53,2,2
+1820020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,802,shp-22-52,2,2
+2153020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2302,shp-42-03,2,2
+1755020,32,3,"32 Miller to Miller Rd P&R",,0,1202,shp-32-53,2,2
+476070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+659070,32,1,"32 Miller to Miller Rd P&R",,0,1107,shp-32-53,2,2
+544020,23,3,"23 PP&R to BTC",,1,1302,shp-23-05,2,1
+2229070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+1387070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+1744010,44,2,"44 Ecorse Tyler to West Willow",,0,2401,shp-44-02,2,2
+2603070,44,1,"44 Ecorse Tyler to YTC",,1,2307,shp-44-52,2,2
+2367020,4,3,"4 Washtenaw to BTC",,1,2102,shp-4-04,2,2
+2352010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1301,shp-23-58,2,1
+229070,6,1,"6 Ellsworth to BTC",,1,3207,shp-6-09,2,2
+1448020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+1287010,22,2,"22 Pontiac to BTC",,1,1001,shp-22-03,2,2
+1309070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+524020,32,3,"32 Miller to Miller Rd P&R",,0,1602,shp-32-53,2,2
+1976070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2307,shp-42-03,2,2
+731070,44,1,"44 Ecorse Tyler to West Willow",,0,2307,shp-44-02,2,2
+364010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4801,shp-25-08,2,2
+2177070,3,1,"Huron River to YTC",,0,907,shp-3-51,2,2
+1707020,4,3,"4 Washtenaw to BTC",,1,1702,shp-4-04,2,2
+1035010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+2048020,32,3,"32 Miller to Miller Rd P&R",,0,1402,shp-32-53,2,2
+1965010,25,2,"25 Ann Arbor Saline to BTC",,1,5001,shp-25-07,2,2
+392010,6,2,"6 Ellsworth to YTC",,0,3201,shp-6-60,2,2
+742020,6,3,"6 Ellsworth to BTC",,1,3902,shp-6-09,2,2
+2442070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+2393070,5,1,"5 Packard to YTC",,0,3107,shp-5-55,2,2
+766020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+2565070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,907,shp-22-52,2,2
+1675010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+2391070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,5007,shp-25-08,2,2
+1295010,42,2,"42 MacArthur Michigan to YTC",,1,2401,shp-42-52,2,2
+1466070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1107,shp-23-58,2,1
+1750020,6,3,"6 Ellsworth to YTC",,0,3302,shp-6-60,2,2
+1276020,65,3,"65 Green Fuller to BTC",,1,302,shp-65-02,2,2
+1585020,4,3,"4 Washtenaw to YTC",,0,1802,shp-4-53,2,2
+2583070,44,1,"44 Ecorse Tyler to West Willow",,0,2307,shp-44-02,2,2
+458010,4,2,"4 Washtenaw to YTC",,0,1701,shp-4-53,2,2
+1313020,6,3,"6 Ellsworth to BTC",,1,3302,shp-6-09,2,2
+1765020,44,3,"44 Ecorse Tyler to YTC",,1,2302,shp-44-52,2,2
+886010,23,2,"23 PP&R to BTC",,1,1201,shp-23-05,2,1
+346010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+1649010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+1359020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1530070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+658020,23,3,"23 PP&R to BTC",,1,1202,shp-23-05,2,1
+1370010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,901,shp-22-52,2,2
+192070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+1281020,62,3,"62 UM State St to Wolverine Tower",,1,4502,shp-62-52,2,1
+657020,44,3,"44 Ecorse Tyler to YTC",,1,2302,shp-44-52,2,2
+918020,6,3,"6 Ellsworth to YTC",,0,3902,shp-6-60,2,2
+2222070,6,1,"6 Ellsworth to BTC",,1,3207,shp-6-09,2,2
+699020,62,3,"62 UM State St to CCTC",,0,4502,shp-62-06,2,1
+1214020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1122010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,701,shp-22-52,2,2
+1584010,3,2,"Huron River to BTC",,1,801,shp-3-02,2,2
+421070,6,1,"6 Ellsworth to BTC",,1,3507,shp-6-09,2,2
+609020,65,3,"65 Green Fuller to BTC",,1,202,shp-65-02,2,2
+646010,32,2,"32 Miller to Blake Transit Ctr",,1,1301,shp-32-05,2,2
+63020,5,3,"5 Packard to YTC",,0,2802,shp-5-55,2,2
+1638020,23,3,"23 PP&R to BTC",,1,1602,shp-23-05,2,1
+875070,42,1,"42 MacArthur Michigan to YTC",,1,2507,shp-42-52,2,2
+145010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4901,shp-25-08,2,2
+619070,22,1,"22 Pontiac to BTC",,1,1007,shp-22-03,2,2
+499010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4801,shp-65-52,2,2
+567070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1434020,65,3,"65 Green-Fuller to Green Rd P&R",,0,102,shp-65-52,2,2
+688020,6,3,"6 Ellsworth to YTC",,0,3502,shp-6-60,2,2
+296020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1803070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+1995020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,302,shp-25-08,2,2
+2122070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,707,shp-22-52,2,2
+724020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1666010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1800010,4,2,"4 Washtenaw to BTC",,1,1801,shp-4-04,2,2
+1373010,23,2,"23 PP&R to BTC",,1,1301,shp-23-05,2,1
+2021020,6,3,"6 Ellsworth to YTC",,0,3502,shp-6-60,2,2
+1446020,4,3,"4 Washtenaw to BTC",,1,1802,shp-4-04,2,2
+411070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2507,shp-42-03,2,2
+2024010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4901,shp-25-08,2,2
+946020,62,3,"62 UM State St to Wolverine Tower",,1,4502,shp-62-52,2,1
+1365070,44,1,"44 Ecorse Tyler to West Willow",,0,2507,shp-44-02,2,2
+484020,23,3,"23 PP&R to BTC",,1,1502,shp-23-05,2,1
+1740070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+2271020,23,3,"23 PP&R to BTC",,1,1402,shp-23-05,2,1
+1720070,4,1,"4 Washtenaw to BTC",,1,1707,shp-4-04,2,2
+1355010,4,2,"4 Washtenaw to BTC",,1,1901,shp-4-04,2,2
+847070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2407,shp-42-03,2,2
+1399010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+38010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,701,shp-22-52,2,2
+355070,6,1,"6 Ellsworth to BTC",,1,3507,shp-6-09,2,2
+2102070,32,1,"32 Miller to Miller Rd P&R",,0,1407,shp-32-53,2,2
+673010,4,2,"4 Washtenaw to BTC",,1,1901,shp-4-04,2,2
+9020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+2612020,44,3,"44 Ecorse Tyler to YTC",,1,2402,shp-44-52,2,2
+321020,23,3,"23 PP&R to BTC",,1,1402,shp-23-05,2,1
+677020,3,3,"Huron River to BTC",,1,702,shp-3-02,2,2
+975010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+2273010,25,2,"25 Ann Arbor Saline to BTC",,1,4801,shp-25-07,2,2
+1760010,44,2,"44 Ecorse Tyler to West Willow",,0,2301,shp-44-02,2,2
+2552010,44,2,"44 Ecorse Tyler to YTC",,1,2301,shp-44-52,2,2
+440020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1767020,22,3,"22 Pontiac to BTC",,1,802,shp-22-03,2,2
+1118020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1602,shp-23-58,2,1
+1404010,6,2,"6 Ellsworth to BTC",,1,3301,shp-6-09,2,2
+592020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,702,shp-22-52,2,2
+24070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+1356070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2507,shp-42-03,2,2
+371020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2511010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1201,shp-23-58,2,1
+342010,3,2,"Huron River to BTC",,1,801,shp-3-02,2,2
+1673020,32,3,"32 Miller to Miller Rd P&R",,0,1402,shp-32-53,2,2
+952070,32,1,"32 Miller to Miller Rd P&R",,0,1207,shp-32-53,2,2
+2611010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+2036010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1301,shp-23-58,2,1
+56010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4801,shp-25-08,2,2
+860070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1596020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1102,shp-23-58,2,1
+626010,32,2,"32 Miller to Blake Transit Ctr",,1,1201,shp-32-05,2,2
+2317070,65,1,"65 Green Fuller to BTC",,1,5007,shp-65-02,2,2
+1337010,6,2,"6 Ellsworth to YTC",,0,3401,shp-6-60,2,2
+966020,62,3,"62 UM State St to Wolverine Tower",,1,4602,shp-62-52,2,1
+564070,6,1,"6 Ellsworth to BTC",,1,3207,shp-6-09,2,2
+445070,6,1,"6 Ellsworth to YTC",,0,3207,shp-6-60,2,2
+1886020,46,3,"Paint Creek to YTC",,1,2602,shp-46-52,2,2
+1415070,5,1,"5 Packard to YTC",,0,2807,shp-5-55,2,2
+2175020,62,3,"62 UM State St to CCTC",,0,4602,shp-62-06,2,1
+241070,6,1,"6 Ellsworth to YTC",,0,3207,shp-6-60,2,2
+2276070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+2289070,32,1,"32 Miller to Blake Transit Ctr",,1,1207,shp-32-05,2,2
+2573010,3,2,"Huron River to BTC",,1,701,shp-3-02,2,2
+748020,6,3,"6 Ellsworth to YTC",,0,3902,shp-6-60,2,2
+1781020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+61070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,1007,shp-22-52,2,2
+1640010,4,2,"4 Washtenaw to YTC",,0,1801,shp-4-53,2,2
+2512010,5,2,"5 Packard to YTC",,0,3001,shp-5-55,2,2
+990010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1401,shp-23-58,2,1
+512070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+1896020,5,3,"5 Packard to BTC",,1,2802,shp-5-05,2,2
+457010,65,2,"65 Green-Fuller to Green Rd P&R",,0,5001,shp-65-52,2,2
+1793010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+1770070,44,1,"44 Ecorse Tyler to West Willow",,0,2507,shp-44-02,2,2
+1475020,5,3,"5 Packard to BTC",,1,3002,shp-5-05,2,2
+1184070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+632070,5,1,"5 Packard to BTC",,1,2907,shp-5-05,2,2
+2415010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+156010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+1222070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+1604070,6,1,"6 Ellsworth to BTC",,1,3407,shp-6-09,2,2
+1105020,5,3,"5 Packard to BTC",,1,3002,shp-5-05,2,2
+1921010,6,2,"6 Ellsworth to BTC",,1,3201,shp-6-09,2,2
+1251070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+1602020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+921070,3,1,"Huron River to BTC",,1,707,shp-3-02,2,2
+893020,4,3,"4 Washtenaw to YTC",,0,1902,shp-4-53,2,2
+1056070,32,1,"32 Miller to Miller Rd P&R",,0,1407,shp-32-53,2,2
+1279070,65,1,"65 Green-Fuller to Green Rd P&R",,0,5007,shp-65-52,2,2
+1577070,6,1,"6 Ellsworth to BTC",,1,3307,shp-6-09,2,2
+2524020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2302,shp-42-03,2,2
+1796070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+505010,5,2,"5 Packard to YTC",,0,2801,shp-5-55,2,2
+163020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+498020,4,3,"4 Washtenaw to BTC",,1,1702,shp-4-04,2,2
+197020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,802,shp-22-52,2,2
+1616020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,102,shp-25-08,2,2
+256010,44,2,"44 Ecorse Tyler to YTC",,1,2501,shp-44-52,2,2
+2043070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+1629010,44,2,"44 Ecorse Tyler to YTC",,1,2301,shp-44-52,2,2
+1457020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-04,2,2
+1647020,3,3,"Huron River to YTC",,0,902,shp-3-51,2,2
+186070,42,1,"42 MacArthur Michigan to YTC",,1,2307,shp-42-52,2,2
+2650070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2307,shp-42-03,2,2
+644020,65,3,"65 Green-Fuller to Green Rd P&R",,0,202,shp-65-52,2,2
+1590020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-04,2,2
+404010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1201,shp-23-58,2,1
+254070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+1522010,23,2,"23 PP&R to BTC",,1,1401,shp-23-05,2,1
+340020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1691010,32,2,"32 Miller to Blake Transit Ctr",,1,1301,shp-32-05,2,2
+1978010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+2595070,44,1,"44 Ecorse Tyler to West Willow",,0,2307,shp-44-02,2,2
+1833010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4801,shp-65-52,2,2
+1385020,42,3,"42 MacArthur Michigan to YTC",,1,2302,shp-42-52,2,2
+2597020,44,3,"44 Ecorse Tyler to YTC",,1,2302,shp-44-52,2,2
+1912010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+1746010,4,2,"4 Washtenaw to BTC",,1,1801,shp-4-04,2,2
+2381020,62,3,"62 UM State St to CCTC",,0,4502,shp-62-06,2,1
+2542010,42,2,"42 MacArthur Michigan to YTC",,1,2301,shp-42-52,2,2
+1134070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,1007,shp-22-52,2,2
+289070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4807,shp-65-52,2,2
+2360010,22,2,"22 Pontiac to BTC",,1,901,shp-22-03,2,2
+1998010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+759070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4807,shp-65-52,2,2
+1930020,23,3,"23 PP&R to BTC",,1,1202,shp-23-05,2,1
+1864070,44,1,"44 Ecorse Tyler to West Willow",,0,2407,shp-44-02,2,2
+1044020,32,3,"32 Miller to Blake Transit Ctr",,1,1402,shp-32-05,2,2
+2051010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+133020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+2518010,65,2,"65 Green Fuller to BTC",,1,4901,shp-65-02,2,2
+1688020,23,3,"23 PP&R to BTC",,1,1402,shp-23-05,2,1
+2620020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+2607070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+804010,25,2,"25 Ann Arbor Saline to BTC",,1,4901,shp-25-07,2,2
+2338010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+75010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+1555070,44,1,"44 Ecorse Tyler to West Willow",,0,2407,shp-44-02,2,2
+1632070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+2074010,5,2,"5 Packard to BTC",,1,2901,shp-5-05,2,2
+2065070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2407,shp-42-03,2,2
+1758070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+184010,4,2,"4 Washtenaw to YTC",,0,1901,shp-4-53,2,2
+1224020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1319020,4,3,"4 Washtenaw to YTC",,0,1902,shp-4-53,2,2
+637070,5,1,"5 Packard to BTC",,1,2907,shp-5-05,2,2
+304070,4,1,"4 Washtenaw to BTC",,1,1907,shp-4-04,2,2
+1922020,23,3,"23 PP&R to BTC",,1,1102,shp-23-05,2,1
+933070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+764020,23,3,"23 PP&R to BTC",,1,1502,shp-23-05,2,1
+899020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+2651010,65,2,"65 Green-Fuller to Green Rd P&R",,0,5001,shp-65-52,2,2
+132020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+2176070,6,1,"6 Ellsworth to YTC",,0,3407,shp-6-60,2,2
+1925010,65,2,"65 Green Fuller to BTC",,1,4901,shp-65-02,2,2
+361020,44,3,"44 Ecorse Tyler to West Willow",,0,2302,shp-44-02,2,2
+423020,62,3,"62 UM State St to CCTC",,0,4502,shp-62-06,2,1
+1535020,42,3,"42 MacArthur Michigan to YTC",,1,2502,shp-42-52,2,2
+174010,42,2,"42 MacArthur Michigan to YTC",,1,2301,shp-42-52,2,2
+518070,6,1,"6 Ellsworth to BTC",,1,3207,shp-6-09,2,2
+1877020,62,3,"62 UM State St to Wolverine Tower",,1,4702,shp-62-52,2,1
+19010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2401,shp-42-03,2,2
+223020,44,3,"44 Ecorse Tyler to YTC",,1,2502,shp-44-52,2,2
+1572020,44,3,"44 Ecorse Tyler to YTC",,1,2302,shp-44-52,2,2
+388020,4,3,"4 Washtenaw to YTC",,0,1902,shp-4-53,2,2
+1889020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2657010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+1723070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1407,shp-23-58,2,1
+74020,5,3,"5 Packard to BTC",,1,2902,shp-5-05,2,2
+1001020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,1002,shp-22-52,2,2
+1091070,3,1,"Huron River to YTC",,0,807,shp-3-51,2,2
+2019020,5,3,"5 Packard to YTC",,0,3002,shp-5-55,2,2
+947010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+1157010,42,2,"42 MacArthur Michigan to YTC",,1,2401,shp-42-52,2,2
+2409020,4,3,"4 Washtenaw to BTC",,1,2102,shp-4-04,2,2
+85010,42,2,"42 MacArthur Michigan to YTC",,1,2501,shp-42-52,2,2
+1045020,3,3,"Huron River to BTC",,1,902,shp-3-02,2,2
+1869020,65,3,"65 Green-Fuller to Green Rd P&R",,0,102,shp-65-52,2,2
+93070,5,1,"5 Packard to YTC",,0,3007,shp-5-55,2,2
+568070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+265010,44,2,"44 Ecorse Tyler to YTC",,1,2501,shp-44-52,2,2
+1022020,6,3,"6 Ellsworth to BTC",,1,3902,shp-6-09,2,2
+1417010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,801,shp-22-52,2,2
+2385020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+82070,25,1,"25 Ann Arbor Saline to BTC",,1,4907,shp-25-07,2,2
+2189070,44,1,"44 Ecorse Tyler to YTC",,1,2507,shp-44-52,2,2
+2243010,23,2,"23 PP&R to BTC",,1,1201,shp-23-05,2,1
+2206020,62,3,"62 UM State St to CCTC",,0,4602,shp-62-06,2,1
+2080070,5,1,"5 Packard to BTC",,1,3007,shp-5-05,2,2
+753070,44,1,"44 Ecorse Tyler to YTC",,1,2507,shp-44-52,2,2
+1112070,4,1,"4 Washtenaw to BTC",,1,1907,shp-4-04,2,2
+1062020,6,3,"6 Ellsworth to BTC",,1,3302,shp-6-09,2,2
+997070,22,1,"22 Pontiac to BTC",,1,807,shp-22-03,2,2
+159070,65,1,"65 Green Fuller to BTC",,1,4907,shp-65-02,2,2
+662020,32,3,"32 Miller to Miller Rd P&R",,0,1202,shp-32-53,2,2
+2172070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+2663020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+2380010,6,2,"6 Ellsworth to BTC",,1,3201,shp-6-09,2,2
+1988070,5,1,"5 Packard to BTC",,1,2907,shp-5-05,2,2
+1940070,32,1,"32 Miller to Miller Rd P&R",,0,1207,shp-32-53,2,2
+2128020,4,3,"4 Washtenaw to BTC",,1,2002,shp-4-04,2,2
+729070,5,1,"5 Packard to YTC",,0,2807,shp-5-55,2,2
+247020,23,3,"23 PP&R to BTC",,1,1402,shp-23-05,2,1
+1727020,44,3,"44 Ecorse Tyler to YTC",,1,2502,shp-44-52,2,2
+13020,65,3,"65 Green Fuller to BTC",,1,302,shp-65-02,2,2
+1176010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4901,shp-25-08,2,2
+691010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+2015070,25,1,"25 Ann Arbor Saline to BTC",,1,4907,shp-25-07,2,2
+803010,3,2,"Huron River to BTC",,1,701,shp-3-02,2,2
+1857070,32,1,"32 Miller to Miller Rd P&R",,0,1107,shp-32-53,2,2
+1375020,3,3,"Huron River to YTC",,0,1002,shp-3-51,2,2
+2521010,4,2,"4 Washtenaw to BTC",,1,1901,shp-4-04,2,2
+787070,42,1,"42 MacArthur Michigan to YTC",,1,2507,shp-42-52,2,2
+2299070,4,1,"4 Washtenaw to YTC",,0,1707,shp-4-53,2,2
+270020,42,3,"42 MacArthur Michigan to YTC",,1,2402,shp-42-52,2,2
+864020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+2575070,4,1,"4 Washtenaw to BTC",,1,1907,shp-4-04,2,2
+58020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,1002,shp-22-52,2,2
+1865010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4901,shp-25-08,2,2
+2670020,23,3,"23 PP&R to BTC",,1,1202,shp-23-05,2,1
+733020,4,3,"4 Washtenaw to YTC",,0,1902,shp-4-53,2,2
+10010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+2121070,4,1,"4 Washtenaw to YTC",,0,1907,shp-4-53,2,2
+255010,6,2,"6 Ellsworth to BTC",,1,3201,shp-6-09,2,2
+29070,32,1,"32 Miller to Blake Transit Ctr",,1,1307,shp-32-05,2,2
+2139070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+1964020,44,3,"44 Ecorse Tyler to West Willow",,0,2502,shp-44-02,2,2
+1027010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+191010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+14010,44,2,"44 Ecorse Tyler to West Willow",,0,2401,shp-44-02,2,2
+1742020,32,3,"32 Miller to Blake Transit Ctr",,1,1502,shp-32-05,2,2
+2308020,6,3,"6 Ellsworth to BTC",,1,3302,shp-6-09,2,2
+1384020,32,3,"32 Miller to Blake Transit Ctr",,1,1302,shp-32-05,2,2
+1620020,3,3,"Huron River to YTC",,0,702,shp-3-51,2,2
+604070,25,1,"25 Ann Arbor Saline to BTC",,1,4807,shp-25-07,2,2
+1541010,44,2,"44 Ecorse Tyler to YTC",,1,2501,shp-44-52,2,2
+613020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1220070,3,1,"Huron River to BTC",,1,907,shp-3-02,2,2
+1583020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+654070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+1306020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+1648020,44,3,"44 Ecorse Tyler to West Willow",,0,2402,shp-44-02,2,2
+2406020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,202,shp-25-08,2,2
+2282010,6,2,"6 Ellsworth to BTC",,1,3501,shp-6-09,2,2
+314010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+203020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1999020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2502,shp-42-03,2,2
+648020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1202,shp-23-58,2,1
+2148010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+2014010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4801,shp-65-52,2,2
+979020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+622020,32,3,"32 Miller to Blake Transit Ctr",,1,1102,shp-32-05,2,2
+653020,3,3,"Huron River to BTC",,1,802,shp-3-02,2,2
+2664020,3,3,"Huron River to YTC",,0,1002,shp-3-51,2,2
+2605010,6,2,"6 Ellsworth to BTC",,1,3301,shp-6-09,2,2
+2438020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+2358070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2307,shp-42-03,2,2
+238070,65,1,"65 Green-Fuller to Green Rd P&R",,0,5007,shp-65-52,2,2
+1058020,25,3,"25 Ann Arbor Saline to BTC",,1,102,shp-25-07,2,2
+1702010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+2205020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+1217070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+1243020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1424070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+1552010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2301,shp-42-03,2,2
+2104070,5,1,"5 Packard to BTC",,1,3007,shp-5-05,2,2
+1710020,65,3,"65 Green-Fuller to Green Rd P&R",,0,302,shp-65-52,2,2
+1747010,44,2,"44 Ecorse Tyler to YTC",,1,2301,shp-44-52,2,2
+2548070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+2093020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1160070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+1508020,62,3,"62 UM State St to Wolverine Tower",,1,4402,shp-62-52,2,1
+1405020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,302,shp-25-08,2,2
+2004070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1840010,3,2,"Huron River to YTC",,0,701,shp-3-51,2,2
+557070,5,1,"5 Packard to BTC",,1,3107,shp-5-05,2,2
+2586010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+962010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+1575010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2401,shp-42-03,2,2
+220020,32,3,"32 Miller to Miller Rd P&R",,0,1202,shp-32-53,2,2
+1519020,23,3,"23 PP&R to BTC",,1,1102,shp-23-05,2,1
+8010,3,2,"Huron River to BTC",,1,701,shp-3-02,2,2
+385070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+643010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2401,shp-42-03,2,2
+807010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4801,shp-25-08,2,2
+1735020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1302,shp-23-58,2,1
+2149070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+1086010,42,2,"42 MacArthur Michigan to YTC",,1,2501,shp-42-52,2,2
+1902010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+439010,44,2,"44 Ecorse Tyler to YTC",,1,2301,shp-44-52,2,2
+778070,6,1,"6 Ellsworth to BTC",,1,3407,shp-6-09,2,2
+2372020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+109070,25,1,"25 Ann Arbor Saline to BTC",,1,4907,shp-25-07,2,2
+1826010,3,2,"Huron River to YTC",,0,801,shp-3-51,2,2
+2117070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+913010,23,2,"23 PP&R to BTC",,1,1401,shp-23-05,2,1
+1591020,6,3,"6 Ellsworth to YTC",,0,3702,shp-6-60,2,2
+585010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,1001,shp-22-52,2,2
+665010,6,2,"6 Ellsworth to YTC",,0,3501,shp-6-60,2,2
+781020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+1202070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+1007020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1177070,32,1,"32 Miller to Blake Transit Ctr",,1,1207,shp-32-05,2,2
+1381010,5,2,"5 Packard to YTC",,0,2901,shp-5-55,2,2
+865020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2302,shp-42-03,2,2
+480020,23,3,"23 PP&R to BTC",,1,1502,shp-23-05,2,1
+28010,23,2,"23 PP&R to BTC",,1,1301,shp-23-05,2,1
+337010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4801,shp-65-52,2,2
+2109020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1211010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+98010,42,2,"42 MacArthur Michigan to YTC",,1,2501,shp-42-52,2,2
+1994010,5,2,"5 Packard to YTC",,0,2801,shp-5-55,2,2
+1557020,6,3,"6 Ellsworth to BTC",,1,3702,shp-6-09,2,2
+566010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+845010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4901,shp-25-08,2,2
+1330070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,1007,shp-22-52,2,2
+1672070,5,1,"5 Packard to BTC",,1,3107,shp-5-05,2,2
+1731010,4,2,"4 Washtenaw to YTC",,0,1901,shp-4-53,2,2
+1012010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+1077020,32,3,"32 Miller to Miller Rd P&R",,0,1302,shp-32-53,2,2
+970020,65,3,"65 Green-Fuller to Green Rd P&R",,0,102,shp-65-52,2,2
+280020,65,3,"65 Green-Fuller to Green Rd P&R",,0,202,shp-65-52,2,2
+1369070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+1345010,23,2,"23 PP&R to BTC",,1,1201,shp-23-05,2,1
+1432070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1207,shp-23-58,2,1
+315020,4,3,"4 Washtenaw to BTC",,1,2002,shp-4-04,2,2
+2212020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+1040070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+1183020,44,3,"44 Ecorse Tyler to West Willow",,0,2502,shp-44-02,2,2
+1323070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+367020,5,3,"5 Packard to YTC",,0,3002,shp-5-55,2,2
+1507020,4,3,"4 Washtenaw to BTC",,1,2102,shp-4-04,2,2
+2547020,25,3,"25 Ann Arbor Saline to BTC",,1,202,shp-25-07,2,2
+1751020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,302,shp-25-08,2,2
+2275020,46,3,"Paint Creek to YTC",,1,2602,shp-46-52,2,2
+1297010,3,2,"Huron River to BTC",,1,901,shp-3-02,2,2
+2097020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+2034010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+67020,6,3,"6 Ellsworth to BTC",,1,3902,shp-6-09,2,2
+911020,6,3,"6 Ellsworth to BTC",,1,3402,shp-6-09,2,2
+736020,32,3,"32 Miller to Miller Rd P&R",,0,1102,shp-32-53,2,2
+2016010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2401,shp-42-03,2,2
+1783070,22,1,"22 Pontiac to BTC",,1,1007,shp-22-03,2,2
+391010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+1139070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2407,shp-42-03,2,2
+59070,3,1,"Huron River to BTC",,1,807,shp-3-02,2,2
+2411070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+2540020,65,3,"65 Green-Fuller to Green Rd P&R",,0,102,shp-65-52,2,2
+99020,3,3,"Huron River to YTC",,0,702,shp-3-51,2,2
+101070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2307,shp-42-03,2,2
+1718020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+945070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1489020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+2329010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+2077010,44,2,"44 Ecorse Tyler to YTC",,1,2401,shp-44-52,2,2
+551070,3,1,"Huron River to BTC",,1,1007,shp-3-02,2,2
+2483020,4,3,"4 Washtenaw to BTC",,1,1702,shp-4-04,2,2
+1945020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1102,shp-23-58,2,1
+1947020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,702,shp-22-52,2,2
+2418070,32,1,"32 Miller to Blake Transit Ctr",,1,1207,shp-32-05,2,2
+1875070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+249010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+2520020,6,3,"6 Ellsworth to YTC",,0,3302,shp-6-60,2,2
+1685070,42,1,"42 MacArthur Michigan to YTC",,1,2407,shp-42-52,2,2
+106020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1502,shp-23-58,2,1
+818020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1656070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+2031010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+1008070,6,1,"6 Ellsworth to YTC",,0,3307,shp-6-60,2,2
+2564070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2407,shp-42-03,2,2
+641020,5,3,"5 Packard to YTC",,0,2902,shp-5-55,2,2
+1052010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,5001,shp-25-08,2,2
+2473010,44,2,"44 Ecorse Tyler to West Willow",,0,2501,shp-44-02,2,2
+607070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+689020,44,3,"44 Ecorse Tyler to West Willow",,0,2402,shp-44-02,2,2
+2234020,42,3,"42 MacArthur Michigan to YTC",,1,2402,shp-42-52,2,2
+325020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+1154010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+974070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+1081010,5,2,"5 Packard to YTC",,0,3001,shp-5-55,2,2
+1486070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,5007,shp-25-08,2,2
+2278010,5,2,"5 Packard to YTC",,0,3101,shp-5-55,2,2
+1069070,25,1,"25 Ann Arbor Saline to BTC",,1,5007,shp-25-07,2,2
+581010,4,2,"4 Washtenaw to YTC",,0,1701,shp-4-53,2,2
+235020,6,3,"6 Ellsworth to YTC",,0,3302,shp-6-60,2,2
+2087020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+2486020,23,3,"23 PP&R to BTC",,1,1402,shp-23-05,2,1
+926070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+600020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-04,2,2
+1233070,5,1,"5 Packard to YTC",,0,2807,shp-5-55,2,2
+2396010,32,2,"32 Miller to Blake Transit Ctr",,1,1101,shp-32-05,2,2
+1304070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+2127010,32,2,"32 Miller to Blake Transit Ctr",,1,1201,shp-32-05,2,2
+1670010,5,2,"5 Packard to BTC",,1,2901,shp-5-05,2,2
+2340010,23,2,"23 PP&R to BTC",,1,1301,shp-23-05,2,1
+500070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4807,shp-25-08,2,2
+1773020,3,3,"Huron River to BTC",,1,802,shp-3-02,2,2
+204010,44,2,"44 Ecorse Tyler to YTC",,1,2401,shp-44-52,2,2
+2460070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1029070,6,1,"6 Ellsworth to BTC",,1,3307,shp-6-09,2,2
+358070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+2105010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+393010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+656020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1494070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+1615020,32,3,"32 Miller to Blake Transit Ctr",,1,1402,shp-32-05,2,2
+2107010,44,2,"44 Ecorse Tyler to YTC",,1,2501,shp-44-52,2,2
+278020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,202,shp-25-08,2,2
+1830070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4807,shp-25-08,2,2
+2405070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1407,shp-23-58,2,1
+81020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+15010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1100070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+1085070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+2426070,3,1,"Huron River to YTC",,0,1007,shp-3-51,2,2
+1682070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+618020,44,3,"44 Ecorse Tyler to YTC",,1,2402,shp-44-52,2,2
+11020,44,3,"44 Ecorse Tyler to YTC",,1,2302,shp-44-52,2,2
+1646070,22,1,"22 Pontiac to BTC",,1,807,shp-22-03,2,2
+2079070,42,1,"42 MacArthur Michigan to YTC",,1,2507,shp-42-52,2,2
+1439020,3,3,"Huron River to BTC",,1,802,shp-3-02,2,2
+2061070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+2103020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,902,shp-22-52,2,2
+1426070,42,1,"42 MacArthur Michigan to YTC",,1,2307,shp-42-52,2,2
+1642020,42,3,"42 MacArthur Michigan to YTC",,1,2502,shp-42-52,2,2
+870020,25,3,"25 Ann Arbor Saline to BTC",,1,102,shp-25-07,2,2
+825070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+2227070,5,1,"5 Packard to YTC",,0,2807,shp-5-55,2,2
+228020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+2619070,42,1,"42 MacArthur Michigan to YTC",,1,2307,shp-42-52,2,2
+1606070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+1627070,44,1,"44 Ecorse Tyler to YTC",,1,2507,shp-44-52,2,2
+353020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2502,shp-42-03,2,2
+2196070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+162010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1401,shp-23-58,2,1
+80010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2401,shp-42-03,2,2
+43020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+1883070,42,1,"42 MacArthur Michigan to YTC",,1,2507,shp-42-52,2,2
+113070,3,1,"Huron River to BTC",,1,807,shp-3-02,2,2
+710010,6,2,"6 Ellsworth to YTC",,0,3201,shp-6-60,2,2
+2210020,42,3,"42 MacArthur Michigan to YTC",,1,2302,shp-42-52,2,2
+1705020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1872020,46,3,"Paint Creek to YTC",,1,2602,shp-46-52,2,2
+2106070,23,1,"23 PP&R to BTC",,1,1207,shp-23-05,2,1
+271010,3,2,"Huron River to BTC",,1,701,shp-3-02,2,2
+611020,5,3,"5 Packard to BTC",,1,3002,shp-5-05,2,2
+2182070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,5007,shp-25-08,2,2
+1048070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+1961010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+1152010,32,2,"32 Miller to Blake Transit Ctr",,1,1201,shp-32-05,2,2
+1532020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2402,shp-42-03,2,2
+1064020,65,3,"65 Green-Fuller to Green Rd P&R",,0,102,shp-65-52,2,2
+878020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,302,shp-25-08,2,2
+2674020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+506010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4901,shp-25-08,2,2
+1151010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+1033070,4,1,"4 Washtenaw to YTC",,0,1707,shp-4-53,2,2
+599010,6,2,"6 Ellsworth to YTC",,0,3401,shp-6-60,2,2
+1989020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+2035070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+158070,5,1,"5 Packard to YTC",,0,2907,shp-5-55,2,2
+360020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1502,shp-23-58,2,1
+2145010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+116070,32,1,"32 Miller to Blake Transit Ctr",,1,1307,shp-32-05,2,2
+2643010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+377010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+2519020,6,3,"6 Ellsworth to YTC",,0,3502,shp-6-60,2,2
+1203010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+338020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+906010,6,2,"6 Ellsworth to BTC",,1,3201,shp-6-09,2,2
+1265010,22,2,"22 Pontiac to BTC",,1,701,shp-22-03,2,2
+2287010,5,2,"5 Packard to YTC",,0,2901,shp-5-55,2,2
+1521010,4,2,"4 Washtenaw to BTC",,1,1801,shp-4-04,2,2
+760070,25,1,"25 Ann Arbor Saline to BTC",,1,5007,shp-25-07,2,2
+1034020,25,3,"25 Ann Arbor Saline to BTC",,1,102,shp-25-07,2,2
+1423020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+589020,62,3,"62 UM State St to Wolverine Tower",,1,4602,shp-62-52,2,1
+1971070,25,1,"25 Ann Arbor Saline to BTC",,1,5007,shp-25-07,2,2
+1397020,62,3,"62 UM State St to Wolverine Tower",,1,4602,shp-62-52,2,1
+584070,22,1,"22 Pontiac to BTC",,1,707,shp-22-03,2,2
+2609010,65,2,"65 Green Fuller to BTC",,1,5001,shp-65-02,2,2
+12020,42,3,"42 MacArthur Michigan to YTC",,1,2402,shp-42-52,2,2
+1991010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+1686070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+1661020,62,3,"62 UM State St to CCTC",,0,4702,shp-62-06,2,1
+1255070,6,1,"6 Ellsworth to BTC",,1,3207,shp-6-09,2,2
+813020,6,3,"6 Ellsworth to BTC",,1,3302,shp-6-09,2,2
+513020,25,3,"25 Ann Arbor Saline to BTC",,1,102,shp-25-07,2,2
+409070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+2578010,44,2,"44 Ecorse Tyler to YTC",,1,2401,shp-44-52,2,2
+1336070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+319010,6,2,"6 Ellsworth to BTC",,1,3501,shp-6-09,2,2
+2376070,4,1,"4 Washtenaw to YTC",,0,1807,shp-4-53,2,2
+1106010,42,2,"42 MacArthur Michigan to YTC",,1,2401,shp-42-52,2,2
+2413020,5,3,"5 Packard to BTC",,1,3002,shp-5-05,2,2
+2599010,5,2,"5 Packard to YTC",,0,2901,shp-5-55,2,2
+722070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4907,shp-65-52,2,2
+963020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,802,shp-22-52,2,2
+1469020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+1496070,5,1,"5 Packard to BTC",,1,3107,shp-5-05,2,2
+2535020,3,3,"Huron River to YTC",,0,802,shp-3-51,2,2
+1427010,5,2,"5 Packard to BTC",,1,3101,shp-5-05,2,2
+1926020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+1288020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+2416010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,1001,shp-22-52,2,2
+62020,62,3,"62 UM State St to CCTC",,0,4402,shp-62-06,2,1
+522020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+2073070,6,1,"6 Ellsworth to BTC",,1,3307,shp-6-09,2,2
+861020,6,3,"6 Ellsworth to BTC",,1,3502,shp-6-09,2,2
+1153020,44,3,"44 Ecorse Tyler to YTC",,1,2502,shp-44-52,2,2
+614010,6,2,"6 Ellsworth to YTC",,0,3401,shp-6-60,2,2
+91070,22,1,"22 Pontiac to BTC",,1,807,shp-22-03,2,2
+1221020,5,3,"5 Packard to YTC",,0,2902,shp-5-55,2,2
+1657020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+726010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,1001,shp-22-52,2,2
+674020,4,3,"4 Washtenaw to YTC",,0,2002,shp-4-53,2,2
+1861070,5,1,"5 Packard to BTC",,1,3107,shp-5-05,2,2
+2636010,5,2,"5 Packard to BTC",,1,2901,shp-5-05,2,2
+1401010,3,2,"Huron River to YTC",,0,901,shp-3-51,2,2
+327020,4,3,"4 Washtenaw to YTC",,0,2002,shp-4-53,2,2
+1274010,42,2,"42 MacArthur Michigan to YTC",,1,2401,shp-42-52,2,2
+940020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2302,shp-42-03,2,2
+1986010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+684020,3,3,"Huron River to BTC",,1,802,shp-3-02,2,2
+629020,3,3,"Huron River to BTC",,1,1002,shp-3-02,2,2
+474010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+521070,3,1,"Huron River to BTC",,1,707,shp-3-02,2,2
+147020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1808020,32,3,"32 Miller to Miller Rd P&R",,0,1302,shp-32-53,2,2
+1239020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+2350010,25,2,"25 Ann Arbor Saline to BTC",,1,4901,shp-25-07,2,2
+1032020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+362010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+2208010,23,2,"23 PP&R to BTC",,1,1201,shp-23-05,2,1
+403020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1302,shp-23-58,2,1
+1545020,3,3,"Huron River to BTC",,1,902,shp-3-02,2,2
+817070,44,1,"44 Ecorse Tyler to West Willow",,0,2507,shp-44-02,2,2
+2453010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2501,shp-42-03,2,2
+545070,23,1,"23 PP&R to BTC",,1,1107,shp-23-05,2,1
+2621020,5,3,"5 Packard to YTC",,0,3002,shp-5-55,2,2
+311070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+1550070,32,1,"32 Miller to Blake Transit Ctr",,1,1107,shp-32-05,2,2
+916020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1684020,4,3,"4 Washtenaw to BTC",,1,1702,shp-4-04,2,2
+2146020,65,3,"65 Green Fuller to BTC",,1,202,shp-65-02,2,2
+2160010,4,2,"4 Washtenaw to BTC",,1,1701,shp-4-04,2,2
+991070,3,1,"Huron River to YTC",,0,807,shp-3-51,2,2
+1308020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+2058070,23,1,"23 PP&R to BTC",,1,1107,shp-23-05,2,1
+275010,6,2,"6 Ellsworth to BTC",,1,3401,shp-6-09,2,2
+1050010,4,2,"4 Washtenaw to BTC",,1,1701,shp-4-04,2,2
+1021020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+2628020,5,3,"5 Packard to YTC",,0,3002,shp-5-55,2,2
+1075010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+1190020,44,3,"44 Ecorse Tyler to West Willow",,0,2402,shp-44-02,2,2
+2042020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+1650010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+2046070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+2155070,4,1,"4 Washtenaw to YTC",,0,1707,shp-4-53,2,2
+3010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1120070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,707,shp-22-52,2,2
+996070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1107,shp-23-58,2,1
+1093010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+672010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1101,shp-23-58,2,1
+2429020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1402,shp-23-58,2,1
+583020,4,3,"4 Washtenaw to BTC",,1,2202,shp-4-04,2,2
+2591020,44,3,"44 Ecorse Tyler to YTC",,1,2502,shp-44-52,2,2
+1237020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1261020,5,3,"5 Packard to YTC",,0,2802,shp-5-55,2,2
+2161070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+313070,3,1,"Huron River to YTC",,0,1007,shp-3-51,2,2
+2537020,32,3,"32 Miller to Miller Rd P&R",,0,1602,shp-32-53,2,2
+758070,5,1,"5 Packard to YTC",,0,2907,shp-5-55,2,2
+2459010,23,2,"23 PP&R to BTC",,1,1201,shp-23-05,2,1
+2284070,6,1,"6 Ellsworth to BTC",,1,3407,shp-6-09,2,2
+914020,65,3,"65 Green Fuller to BTC",,1,202,shp-65-02,2,2
+1503070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+473020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1042020,3,3,"Huron River to YTC",,0,702,shp-3-51,2,2
+816070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+87010,6,2,"6 Ellsworth to BTC",,1,3401,shp-6-09,2,2
+1196070,4,1,"4 Washtenaw to YTC",,0,1707,shp-4-53,2,2
+2399010,6,2,"6 Ellsworth to BTC",,1,3501,shp-6-09,2,2
+1728020,25,3,"25 Ann Arbor Saline to BTC",,1,102,shp-25-07,2,2
+1382070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2407,shp-42-03,2,2
+1474020,4,3,"4 Washtenaw to BTC",,1,2202,shp-4-04,2,2
+341020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1141020,32,3,"32 Miller to Miller Rd P&R",,0,1302,shp-32-53,2,2
+307020,62,3,"62 UM State St to CCTC",,0,4702,shp-62-06,2,1
+1598020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1602,shp-23-58,2,1
+2532010,65,2,"65 Green-Fuller to Green Rd P&R",,0,5001,shp-65-52,2,2
+2123010,4,2,"4 Washtenaw to BTC",,1,1801,shp-4-04,2,2
+541070,44,1,"44 Ecorse Tyler to West Willow",,0,2407,shp-44-02,2,2
+1914020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+687010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1761020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+539070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,5007,shp-25-08,2,2
+2130020,42,3,"42 MacArthur Michigan to YTC",,1,2502,shp-42-52,2,2
+794070,32,1,"32 Miller to Miller Rd P&R",,0,1207,shp-32-53,2,2
+1230020,3,3,"Huron River to BTC",,1,702,shp-3-02,2,2
+1463020,65,3,"65 Green-Fuller to Green Rd P&R",,0,202,shp-65-52,2,2
+124020,42,3,"42 MacArthur Michigan to YTC",,1,2402,shp-42-52,2,2
+2398010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+2233020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2502,shp-42-03,2,2
+752070,32,1,"32 Miller to Miller Rd P&R",,0,1207,shp-32-53,2,2
+1305020,6,3,"6 Ellsworth to BTC",,1,3502,shp-6-09,2,2
+84070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4907,shp-25-08,2,2
+2449020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,202,shp-25-08,2,2
+504070,6,1,"6 Ellsworth to YTC",,0,3307,shp-6-60,2,2
+767070,3,1,"Huron River to BTC",,1,707,shp-3-02,2,2
+1099020,65,3,"65 Green-Fuller to Green Rd P&R",,0,302,shp-65-52,2,2
+1980070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,907,shp-22-52,2,2
+2049070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+950020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,302,shp-25-08,2,2
+2623010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+179070,44,1,"44 Ecorse Tyler to YTC",,1,2407,shp-44-52,2,2
+591070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+52020,62,3,"62 UM State St to CCTC",,0,4702,shp-62-06,2,1
+725010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+1472070,4,1,"4 Washtenaw to YTC",,0,1807,shp-4-53,2,2
+1910020,44,3,"44 Ecorse Tyler to YTC",,1,2502,shp-44-52,2,2
+2254020,5,3,"5 Packard to BTC",,1,3102,shp-5-05,2,2
+178070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4807,shp-65-52,2,2
+2579070,42,1,"42 MacArthur Michigan to YTC",,1,2307,shp-42-52,2,2
+2294010,32,2,"32 Miller to Miller Rd P&R",,0,1101,shp-32-53,2,2
+2507070,3,1,"Huron River to YTC",,0,807,shp-3-51,2,2
+1180020,4,3,"4 Washtenaw to YTC",,0,1802,shp-4-53,2,2
+1608070,5,1,"5 Packard to BTC",,1,2807,shp-5-05,2,2
+441070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1339020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+1536070,23,1,"23 PP&R to BTC",,1,1407,shp-23-05,2,1
+287020,65,3,"65 Green Fuller to BTC",,1,102,shp-65-02,2,2
+205020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2302,shp-42-03,2,2
+1383020,65,3,"65 Green-Fuller to Green Rd P&R",,0,202,shp-65-52,2,2
+2253020,5,3,"5 Packard to YTC",,0,2902,shp-5-55,2,2
+431070,22,1,"22 Pontiac to BTC",,1,707,shp-22-03,2,2
+2435010,3,2,"Huron River to YTC",,0,1001,shp-3-51,2,2
+1248010,6,2,"6 Ellsworth to BTC",,1,3401,shp-6-09,2,2
+530020,44,3,"44 Ecorse Tyler to YTC",,1,2402,shp-44-52,2,2
+1049010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4901,shp-65-52,2,2
+1433020,4,3,"4 Washtenaw to BTC",,1,2102,shp-4-04,2,2
+559020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-04,2,2
+972070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+735020,44,3,"44 Ecorse Tyler to West Willow",,0,2302,shp-44-02,2,2
+1634020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1435010,5,2,"5 Packard to YTC",,0,3101,shp-5-55,2,2
+881010,4,2,"4 Washtenaw to YTC",,0,1701,shp-4-53,2,2
+667070,44,1,"44 Ecorse Tyler to West Willow",,0,2407,shp-44-02,2,2
+1428010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+526010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+649020,6,3,"6 Ellsworth to YTC",,0,3502,shp-6-60,2,2
+2451020,22,3,"22 Pontiac to BTC",,1,1002,shp-22-03,2,2
+1320010,3,2,"Huron River to YTC",,0,901,shp-3-51,2,2
+41020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+747020,32,3,"32 Miller to Blake Transit Ctr",,1,1302,shp-32-05,2,2
+2425020,42,3,"42 MacArthur Michigan to YTC",,1,2502,shp-42-52,2,2
+730020,44,3,"44 Ecorse Tyler to West Willow",,0,2302,shp-44-02,2,2
+851020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1602,shp-23-58,2,1
+1963010,5,2,"5 Packard to YTC",,0,3101,shp-5-55,2,2
+2256010,5,2,"5 Packard to BTC",,1,2801,shp-5-05,2,2
+252010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+586010,32,2,"32 Miller to Miller Rd P&R",,0,1201,shp-32-53,2,2
+1768020,6,3,"6 Ellsworth to YTC",,0,3902,shp-6-60,2,2
+488020,3,3,"Huron River to YTC",,0,1002,shp-3-51,2,2
+639020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+1493020,6,3,"6 Ellsworth to BTC",,1,4102,shp-6-09,2,2
+844010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+1959070,6,1,"6 Ellsworth to YTC",,0,3207,shp-6-60,2,2
+455010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+2373020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-04,2,2
+328070,5,1,"5 Packard to BTC",,1,3107,shp-5-05,2,2
+560020,5,3,"5 Packard to YTC",,0,2902,shp-5-55,2,2
+2180070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+2378070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+1072020,3,3,"Huron River to YTC",,0,702,shp-3-51,2,2
+1171010,32,2,"32 Miller to Miller Rd P&R",,0,1301,shp-32-53,2,2
+177010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4901,shp-25-08,2,2
+553020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,702,shp-22-52,2,2
+422070,6,1,"6 Ellsworth to BTC",,1,3407,shp-6-09,2,2
+503010,42,2,"42 MacArthur Michigan to YTC",,1,2501,shp-42-52,2,2
+2539020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,302,shp-25-08,2,2
+6070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+2395020,62,3,"62 UM State St to Wolverine Tower",,1,4502,shp-62-52,2,1
+2230020,4,3,"4 Washtenaw to BTC",,1,1702,shp-4-04,2,2
+1714070,25,1,"25 Ann Arbor Saline to BTC",,1,4807,shp-25-07,2,2
+1704070,3,1,"Huron River to BTC",,1,807,shp-3-02,2,2
+347020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+1588020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,902,shp-22-52,2,2
+1419010,32,2,"32 Miller to Blake Transit Ctr",,1,1401,shp-32-05,2,2
+1835010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+2496020,4,3,"4 Washtenaw to BTC",,1,1802,shp-4-04,2,2
+1495020,4,3,"4 Washtenaw to BTC",,1,2102,shp-4-04,2,2
+2339010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+331010,44,2,"44 Ecorse Tyler to West Willow",,0,2401,shp-44-02,2,2
+141020,32,3,"32 Miller to Blake Transit Ctr",,1,1302,shp-32-04,2,2
+334020,4,3,"4 Washtenaw to YTC",,0,1802,shp-4-53,2,2
+398020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+2640010,65,2,"65 Green-Fuller to Green Rd P&R",,0,5001,shp-65-52,2,2
+27070,32,1,"32 Miller to Miller Rd P&R",,0,1407,shp-32-53,2,2
+772070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+454010,42,2,"42 MacArthur Michigan to YTC",,1,2501,shp-42-52,2,2
+1321020,4,3,"4 Washtenaw to BTC",,1,2002,shp-4-04,2,2
+470020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2402,shp-42-03,2,2
+2386070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4807,shp-25-08,2,2
+2622020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1402,shp-23-58,2,1
+579070,22,1,"22 Pontiac to BTC",,1,907,shp-22-03,2,2
+368020,32,3,"32 Miller to Blake Transit Ctr",,1,1302,shp-32-05,2,2
+161020,3,3,"Huron River to YTC",,0,702,shp-3-51,2,2
+182020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+696070,23,1,"23 PP&R to BTC",,1,1107,shp-23-05,2,1
+675020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1102,shp-23-58,2,1
+387020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,1002,shp-22-52,2,2
+2007020,5,3,"5 Packard to BTC",,1,2902,shp-5-05,2,2
+45010,6,2,"6 Ellsworth to YTC",,0,3401,shp-6-60,2,2
+1524020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1997070,22,1,"22 Pontiac to BTC",,1,707,shp-22-03,2,2
+258020,32,3,"32 Miller to Miller Rd P&R",,0,1102,shp-32-53,2,2
+1244010,3,2,"Huron River to YTC",,0,1001,shp-3-51,2,2
+1268010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+902070,42,1,"42 MacArthur Michigan to YTC",,1,2407,shp-42-52,2,2
+502020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2302,shp-42-03,2,2
+1946070,23,1,"23 PP&R to BTC",,1,1407,shp-23-05,2,1
+2261070,32,1,"32 Miller to Blake Transit Ctr",,1,1207,shp-32-05,2,2
+595010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+135070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,807,shp-22-52,2,2
+612020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+2588020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+1556070,5,1,"5 Packard to BTC",,1,3007,shp-5-05,2,2
+1973020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1402,shp-23-58,2,1
+582020,42,3,"42 MacArthur Michigan to YTC",,1,2302,shp-42-52,2,2
+2366020,6,3,"6 Ellsworth to BTC",,1,4202,shp-6-09,2,2
+2503020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2028070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4907,shp-25-08,2,2
+1461010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+2038010,4,2,"4 Washtenaw to BTC",,1,1701,shp-4-04,2,2
+2240010,25,2,"25 Ann Arbor Saline to BTC",,1,5001,shp-25-07,2,2
+1170070,4,1,"4 Washtenaw to BTC",,1,1807,shp-4-04,2,2
+36010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+335070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4807,shp-25-08,2,2
+954020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1602,shp-23-58,2,1
+1894010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+180070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+2613010,22,2,"22 Pontiac to BTC",,1,901,shp-22-03,2,2
+1981010,3,2,"Huron River to BTC",,1,901,shp-3-02,2,2
+1083020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,202,shp-25-08,2,2
+348010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+964070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+1868070,65,1,"65 Green Fuller to BTC",,1,4807,shp-65-02,2,2
+837070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+834070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+1888020,44,3,"44 Ecorse Tyler to West Willow",,0,2402,shp-44-02,2,2
+841020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2402,shp-42-03,2,2
+820020,44,3,"44 Ecorse Tyler to West Willow",,0,2502,shp-44-02,2,2
+1117010,32,2,"32 Miller to Miller Rd P&R",,0,1201,shp-32-53,2,2
+1126020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1553070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+2673070,4,1,"4 Washtenaw to YTC",,0,1907,shp-4-53,2,2
+555020,32,3,"32 Miller to Blake Transit Ctr",,1,1402,shp-32-05,2,2
+2178010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+992010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,801,shp-22-52,2,2
+2131020,46,3,"Paint Creek to YTC",,1,2602,shp-46-52,2,2
+1837020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2334020,3,3,"Huron River to BTC",,1,1002,shp-3-02,2,2
+2018020,3,3,"Huron River to YTC",,0,802,shp-3-51,2,2
+1756010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+1010070,65,1,"65 Green-Fuller to Green Rd P&R",,0,5007,shp-65-52,2,2
+2188010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+1249070,25,1,"25 Ann Arbor Saline to BTC",,1,4807,shp-25-07,2,2
+76020,4,3,"4 Washtenaw to BTC",,1,1902,shp-4-04,2,2
+1247020,62,3,"62 UM State St to Wolverine Tower",,1,4402,shp-62-52,2,1
+2491020,4,3,"4 Washtenaw to YTC",,0,1702,shp-4-53,2,2
+2529020,65,3,"65 Green Fuller to BTC",,1,102,shp-65-02,2,2
+2135010,5,2,"5 Packard to BTC",,1,3101,shp-5-05,2,2
+2549070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+514070,5,1,"5 Packard to YTC",,0,2907,shp-5-55,2,2
+2199020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+1975070,65,1,"65 Green Fuller to BTC",,1,4907,shp-65-02,2,2
+2592020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2162020,5,3,"5 Packard to YTC",,0,2802,shp-5-55,2,2
+698020,32,3,"32 Miller to Blake Transit Ctr",,1,1602,shp-32-05,2,2
+859070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2407,shp-42-03,2,2
+535010,32,2,"32 Miller to Blake Transit Ctr",,1,1201,shp-32-05,2,2
+2068010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4901,shp-65-52,2,2
+830020,44,3,"44 Ecorse Tyler to West Willow",,0,2402,shp-44-02,2,2
+1372020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,902,shp-22-52,2,2
+1284010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+1468010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+958020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1944010,5,2,"5 Packard to YTC",,0,2801,shp-5-55,2,2
+1400070,4,1,"4 Washtenaw to YTC",,0,1707,shp-4-53,2,2
+2370020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+605070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4807,shp-65-52,2,2
+2638010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1301,shp-23-58,2,1
+1605070,32,1,"32 Miller to Miller Rd P&R",,0,1407,shp-32-53,2,2
+2362070,5,1,"5 Packard to YTC",,0,2807,shp-5-55,2,2
+1542020,62,3,"62 UM State St to Wolverine Tower",,1,4402,shp-62-52,2,1
+2124020,44,3,"44 Ecorse Tyler to YTC",,1,2502,shp-44-52,2,2
+959010,4,2,"4 Washtenaw to YTC",,0,1801,shp-4-53,2,2
+424010,4,2,"4 Washtenaw to BTC",,1,1701,shp-4-04,2,2
+1241070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2307,shp-42-03,2,2
+2384010,3,2,"Huron River to YTC",,0,801,shp-3-51,2,2
+707020,22,3,"22 Pontiac to BTC",,1,902,shp-22-03,2,2
+1065020,25,3,"25 Ann Arbor Saline to BTC",,1,302,shp-25-07,2,2
+416020,4,3,"4 Washtenaw to BTC",,1,1702,shp-4-04,2,2
+2436010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1401,shp-23-58,2,1
+1252020,25,3,"25 Ann Arbor Saline to BTC",,1,302,shp-25-07,2,2
+366010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+2502010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+1228010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+857070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+1500020,32,3,"32 Miller to Miller Rd P&R",,0,1302,shp-32-53,2,2
+976070,25,1,"25 Ann Arbor Saline to BTC",,1,4907,shp-25-07,2,2
+5070,22,1,"22 Pontiac to BTC",,1,807,shp-22-03,2,2
+2365020,65,3,"65 Green Fuller to BTC",,1,202,shp-65-02,2,2
+1067010,32,2,"32 Miller to Blake Transit Ctr",,1,1301,shp-32-05,2,2
+715010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+200020,23,3,"23 PP&R to BTC",,1,1102,shp-23-05,2,1
+1855010,32,2,"32 Miller to Blake Transit Ctr",,1,1301,shp-32-05,2,2
+1285070,5,1,"5 Packard to YTC",,0,3107,shp-5-55,2,2
+1096020,4,3,"4 Washtenaw to YTC",,0,1802,shp-4-53,2,2
+1047010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+477010,65,2,"65 Green Fuller to BTC",,1,4801,shp-65-02,2,2
+1805010,22,2,"22 Pontiac to BTC",,1,1001,shp-22-03,2,2
+232010,5,2,"5 Packard to BTC",,1,3101,shp-5-05,2,2
+686020,65,3,"65 Green-Fuller to Green Rd P&R",,0,302,shp-65-52,2,2
+2167010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+399010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+1810020,65,3,"65 Green-Fuller to Green Rd P&R",,0,302,shp-65-52,2,2
+642070,3,1,"Huron River to YTC",,0,907,shp-3-51,2,2
+1437010,5,2,"5 Packard to BTC",,1,2801,shp-5-05,2,2
+496010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+1565070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+1968010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+151020,4,3,"4 Washtenaw to BTC",,1,2202,shp-4-04,2,2
+1516010,22,2,"22 Pontiac to BTC",,1,701,shp-22-03,2,2
+2183020,4,3,"4 Washtenaw to BTC",,1,2202,shp-4-04,2,2
+1115010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,801,shp-22-52,2,2
+1983020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+2252070,23,1,"23 PP&R to BTC",,1,1307,shp-23-05,2,1
+2302010,25,2,"25 Ann Arbor Saline to BTC",,1,5001,shp-25-07,2,2
+509020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+538010,25,2,"25 Ann Arbor Saline to BTC",,1,4801,shp-25-07,2,2
+866070,4,1,"4 Washtenaw to YTC",,0,1807,shp-4-53,2,2
+2615010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+728070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+1479010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+1677010,6,2,"6 Ellsworth to YTC",,0,3201,shp-6-60,2,2
+1887020,23,3,"23 PP&R to BTC",,1,1502,shp-23-05,2,1
+1633020,5,3,"5 Packard to BTC",,1,2802,shp-5-05,2,2
+2489070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+985010,65,2,"65 Green-Fuller to Green Rd P&R",,0,5001,shp-65-52,2,2
+343020,22,3,"22 Pontiac to BTC",,1,702,shp-22-03,2,2
+631010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+1538020,62,3,"62 UM State St to CCTC",,0,4402,shp-62-06,2,1
+1907020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,802,shp-22-52,2,2
+1611010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,5001,shp-25-08,2,2
+1543070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+1060070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+2499020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-03,2,2
+2255070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+1936070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+2616010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+732020,23,3,"23 PP&R to BTC",,1,1302,shp-23-05,2,1
+1226010,44,2,"44 Ecorse Tyler to YTC",,1,2401,shp-44-52,2,2
+181020,65,3,"65 Green-Fuller to Green Rd P&R",,0,302,shp-65-52,2,2
+1127020,44,3,"44 Ecorse Tyler to YTC",,1,2402,shp-44-52,2,2
+542010,25,2,"25 Ann Arbor Saline to BTC",,1,4901,shp-25-07,2,2
+142020,6,3,"6 Ellsworth to BTC",,1,3902,shp-6-09,2,2
+750010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2301,shp-42-03,2,2
+1759020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+882070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,707,shp-22-52,2,2
+173070,6,1,"6 Ellsworth to YTC",,0,3407,shp-6-60,2,2
+1125020,4,3,"4 Washtenaw to BTC",,1,2002,shp-4-04,2,2
+2237020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+2078070,5,1,"5 Packard to BTC",,1,3107,shp-5-05,2,2
+1766070,3,1,"Huron River to YTC",,0,907,shp-3-51,2,2
+2465020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2302,shp-42-03,2,2
+1363020,4,3,"4 Washtenaw to BTC",,1,1702,shp-4-04,2,2
+1051020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,102,shp-25-08,2,2
+68070,3,1,"Huron River to BTC",,1,907,shp-3-02,2,2
+2089020,32,3,"32 Miller to Blake Transit Ctr",,1,1202,shp-32-05,2,2
+1836070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1207,shp-23-58,2,1
+390070,23,1,"23 PP&R to BTC",,1,1407,shp-23-05,2,1
+1733010,4,2,"4 Washtenaw to YTC",,0,1701,shp-4-53,2,2
+1737070,4,1,"4 Washtenaw to YTC",,0,1807,shp-4-53,2,2
+1245010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+1881010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+623020,6,3,"6 Ellsworth to YTC",,0,3802,shp-6-60,2,2
+2151070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1307,shp-23-58,2,1
+1149010,22,2,"22 Pontiac to BTC",,1,801,shp-22-03,2,2
+1430020,5,3,"5 Packard to BTC",,1,3102,shp-5-05,2,2
+823070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+491020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,802,shp-22-52,2,2
+1528020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2302,shp-42-03,2,2
+938020,23,3,"23 PP&R to BTC",,1,1202,shp-23-05,2,1
+219070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+1701020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1148010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2501,shp-42-03,2,2
+2314070,5,1,"5 Packard to YTC",,0,2907,shp-5-55,2,2
+768020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1502,shp-23-58,2,1
+967010,22,2,"22 Pontiac to BTC",,1,801,shp-22-03,2,2
+2039010,44,2,"44 Ecorse Tyler to West Willow",,0,2501,shp-44-02,2,2
+754070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,1007,shp-22-52,2,2
+2316020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2402,shp-42-03,2,2
+2333020,23,3,"23 PP&R to BTC",,1,1402,shp-23-05,2,1
+2195010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+95070,4,1,"4 Washtenaw to BTC",,1,1707,shp-4-04,2,2
+769020,25,3,"25 Ann Arbor Saline to BTC",,1,302,shp-25-07,2,2
+1551070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+189070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+1589010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1398010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+1102070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4907,shp-65-52,2,2
+1063070,25,1,"25 Ann Arbor Saline to BTC",,1,4907,shp-25-07,2,2
+2407010,32,2,"32 Miller to Miller Rd P&R",,0,1301,shp-32-53,2,2
+597070,6,1,"6 Ellsworth to YTC",,0,3207,shp-6-60,2,2
+2443010,5,2,"5 Packard to BTC",,1,3101,shp-5-05,2,2
+2566020,62,3,"62 UM State St to Wolverine Tower",,1,4602,shp-62-52,2,1
+1250010,6,2,"6 Ellsworth to YTC",,0,3201,shp-6-60,2,2
+1346070,65,1,"65 Green Fuller to BTC",,1,4807,shp-65-02,2,2
+2634010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,701,shp-22-52,2,2
+598010,4,2,"4 Washtenaw to BTC",,1,1801,shp-4-04,2,2
+2185010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1380010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,801,shp-22-52,2,2
+791070,3,1,"Huron River to YTC",,0,807,shp-3-51,2,2
+2543020,5,3,"5 Packard to BTC",,1,2802,shp-5-05,2,2
+1036070,32,1,"32 Miller to Blake Transit Ctr",,1,1407,shp-32-05,2,2
+2645070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+578020,23,3,"23 PP&R to BTC",,1,1602,shp-23-05,2,1
+2110020,4,3,"4 Washtenaw to YTC",,0,1802,shp-4-53,2,2
+1490020,4,3,"4 Washtenaw to YTC",,0,2102,shp-4-53,2,2
+888020,25,3,"25 Ann Arbor Saline to BTC",,1,202,shp-25-07,2,2
+2250020,44,3,"44 Ecorse Tyler to West Willow",,0,2502,shp-44-02,2,2
+17020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1161020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+2090010,4,2,"4 Washtenaw to YTC",,0,1801,shp-4-53,2,2
+843010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+891010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+465020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+344070,4,1,"4 Washtenaw to BTC",,1,1807,shp-4-04,2,2
+2666020,32,3,"32 Miller to Blake Transit Ctr",,1,1102,shp-32-05,2,2
+2493020,6,3,"6 Ellsworth to YTC",,0,3302,shp-6-60,2,2
+2337070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+2462020,32,3,"32 Miller to Miller Rd P&R",,0,1502,shp-32-53,2,2
+2040010,23,2,"23 PP&R to BTC",,1,1401,shp-23-05,2,1
+797020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+2084070,3,1,"Huron River to YTC",,0,707,shp-3-51,2,2
+1061020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,802,shp-22-52,2,2
+2075020,25,3,"25 Ann Arbor Saline to BTC",,1,302,shp-25-07,2,2
+1942070,4,1,"4 Washtenaw to YTC",,0,1907,shp-4-53,2,2
+822020,32,3,"32 Miller to Miller Rd P&R",,0,1202,shp-32-53,2,2
+1392010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+2002020,32,3,"32 Miller to Miller Rd P&R",,0,1102,shp-32-53,2,2
+2371010,5,2,"5 Packard to BTC",,1,2801,shp-5-05,2,2
+1599020,4,3,"4 Washtenaw to BTC",,1,2202,shp-4-04,2,2
+717020,3,3,"Huron River to BTC",,1,902,shp-3-02,2,2
+666020,6,3,"6 Ellsworth to BTC",,1,3702,shp-6-09,2,2
+1814070,44,1,"44 Ecorse Tyler to YTC",,1,2307,shp-44-52,2,2
+2030070,4,1,"4 Washtenaw to BTC",,1,1707,shp-4-04,2,2
+664070,65,1,"65 Green Fuller to BTC",,1,4907,shp-65-02,2,2
+1227070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+413070,3,1,"Huron River to YTC",,0,1007,shp-3-51,2,2
+2312070,44,1,"44 Ecorse Tyler to YTC",,1,2407,shp-44-52,2,2
+2198070,42,1,"42 MacArthur Michigan to YTC",,1,2507,shp-42-52,2,2
+858020,62,3,"62 UM State St to Wolverine Tower",,1,4402,shp-62-52,2,1
+2088070,6,1,"6 Ellsworth to YTC",,0,3207,shp-6-60,2,2
+819020,3,3,"Huron River to YTC",,0,802,shp-3-51,2,2
+1958010,65,2,"65 Green Fuller to BTC",,1,5001,shp-65-02,2,2
+910010,4,2,"4 Washtenaw to BTC",,1,1901,shp-4-04,2,2
+540070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+2213010,4,2,"4 Washtenaw to BTC",,1,1901,shp-4-04,2,2
+617020,5,3,"5 Packard to BTC",,1,3002,shp-5-05,2,2
+2309070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4907,shp-25-08,2,2
+531010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+2082020,4,3,"4 Washtenaw to YTC",,0,2002,shp-4-53,2,2
+2594020,23,3,"23 PP&R to BTC",,1,1202,shp-23-05,2,1
+953070,32,1,"32 Miller to Blake Transit Ctr",,1,1407,shp-32-05,2,2
+1639070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+1213010,4,2,"4 Washtenaw to YTC",,0,1701,shp-4-53,2,2
+2584070,4,1,"4 Washtenaw to YTC",,0,1907,shp-4-53,2,2
+895070,5,1,"5 Packard to BTC",,1,2807,shp-5-05,2,2
+755020,4,3,"4 Washtenaw to YTC",,0,1702,shp-4-53,2,2
+2544070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+887020,23,3,"23 PP&R to BTC",,1,1502,shp-23-05,2,1
+770020,5,3,"5 Packard to BTC",,1,2802,shp-5-05,2,2
+2567020,23,3,"23 PP&R to BTC",,1,1302,shp-23-05,2,1
+2574070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,807,shp-22-52,2,2
+2344020,62,3,"62 UM State St to Wolverine Tower",,1,4402,shp-62-52,2,1
+1163010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+121010,5,2,"5 Packard to YTC",,0,3001,shp-5-55,2,2
+1366010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+957020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+492070,32,1,"32 Miller to Blake Transit Ctr",,1,1407,shp-32-05,2,2
+243010,25,2,"25 Ann Arbor Saline to BTC",,1,4901,shp-25-07,2,2
+97020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2528010,44,2,"44 Ecorse Tyler to YTC",,1,2401,shp-44-52,2,2
+2147070,44,1,"44 Ecorse Tyler to YTC",,1,2407,shp-44-52,2,2
+379010,44,2,"44 Ecorse Tyler to West Willow",,0,2301,shp-44-02,2,2
+519020,23,3,"23 PP&R to BTC",,1,1202,shp-23-05,2,1
+1440010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+842070,42,1,"42 MacArthur Michigan to YTC",,1,2307,shp-42-52,2,2
+206010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+44020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,202,shp-25-08,2,2
+434020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,1002,shp-22-52,2,2
+352020,5,3,"5 Packard to YTC",,0,3102,shp-5-55,2,2
+625020,4,3,"4 Washtenaw to YTC",,0,1702,shp-4-53,2,2
+1985070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+112020,6,3,"6 Ellsworth to YTC",,0,3702,shp-6-60,2,2
+2475010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+2515070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,1007,shp-22-52,2,2
+1637010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+2066020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,302,shp-25-08,2,2
+1823010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+2504010,65,2,"65 Green Fuller to BTC",,1,4901,shp-65-02,2,2
+1131070,23,1,"23 PP&R to BTC",,1,1107,shp-23-05,2,1
+2143070,32,1,"32 Miller to Blake Transit Ctr",,1,1407,shp-32-05,2,2
+905010,6,2,"6 Ellsworth to BTC",,1,3301,shp-6-09,2,2
+1374070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+2653010,23,2,"23 PP&R to BTC",,1,1301,shp-23-05,2,1
+977020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1202,shp-23-58,2,1
+359070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1407,shp-23-58,2,1
+894010,23,2,"23 PP&R to BTC",,1,1101,shp-23-05,2,1
+1918020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,902,shp-22-52,2,2
+242070,44,1,"44 Ecorse Tyler to YTC",,1,2307,shp-44-52,2,2
+1071020,6,3,"6 Ellsworth to BTC",,1,3302,shp-6-09,2,2
+1425020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1013010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+100020,5,3,"5 Packard to YTC",,0,3102,shp-5-55,2,2
+757020,32,3,"32 Miller to Miller Rd P&R",,0,1502,shp-32-51,2,2
+2062070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+1797010,5,2,"5 Packard to YTC",,0,2901,shp-5-55,2,2
+552020,22,3,"22 Pontiac to BTC",,1,802,shp-22-03,2,2
+1311070,32,1,"32 Miller to Miller Rd P&R",,0,1307,shp-32-53,2,2
+251010,42,2,"42 MacArthur Michigan to YTC",,1,2301,shp-42-52,2,2
+2327020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,102,shp-25-08,2,2
+1729020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+2523070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+92020,3,3,"Huron River to YTC",,0,702,shp-3-51,2,2
+647070,44,1,"44 Ecorse Tyler to West Willow",,0,2507,shp-44-02,2,2
+2361010,3,2,"Huron River to BTC",,1,801,shp-3-02,2,2
+744020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2502,shp-42-03,2,2
+316020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,202,shp-25-08,2,2
+572020,6,3,"6 Ellsworth to BTC",,1,3702,shp-6-09,2,2
+169020,4,3,"4 Washtenaw to YTC",,0,1702,shp-4-53,2,2
+1322010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4801,shp-65-52,2,2
+1418020,4,3,"4 Washtenaw to YTC",,0,2102,shp-4-53,2,2
+548020,6,3,"6 Ellsworth to YTC",,0,3302,shp-6-60,2,2
+867020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+608070,5,1,"5 Packard to BTC",,1,2807,shp-5-05,2,2
+86020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-04,2,2
+2116010,25,2,"25 Ann Arbor Saline to BTC",,1,4901,shp-25-07,2,2
+1996070,44,1,"44 Ecorse Tyler to YTC",,1,2507,shp-44-52,2,2
+71020,4,3,"4 Washtenaw to BTC",,1,2202,shp-4-04,2,2
+2099010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+1246020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1102,shp-23-58,2,1
+1711020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1402,shp-23-58,2,1
+1290070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+2070070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+1787010,6,2,"6 Ellsworth to YTC",,0,3401,shp-6-60,2,2
+1018020,3,3,"Huron River to YTC",,0,1002,shp-3-51,2,2
+1757010,44,2,"44 Ecorse Tyler to YTC",,1,2501,shp-44-52,2,2
+1655020,4,3,"4 Washtenaw to BTC",,1,1902,shp-4-04,2,2
+46070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1307,shp-23-58,2,1
+2033010,22,2,"22 Pontiac to BTC",,1,901,shp-22-03,2,2
+1335020,6,3,"6 Ellsworth to YTC",,0,4302,shp-6-60,2,2
+1960070,23,1,"23 PP&R to BTC",,1,1207,shp-23-05,2,1
+417020,32,3,"32 Miller to Blake Transit Ctr",,1,1202,shp-32-05,2,2
+2474020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1209020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+2211070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+2509010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+2141010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2301,shp-42-03,2,2
+299020,5,3,"5 Packard to YTC",,0,2902,shp-5-55,2,2
+562010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+2283010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+230010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+262020,42,3,"42 MacArthur Michigan to YTC",,1,2402,shp-42-52,2,2
+868070,65,1,"65 Green Fuller to BTC",,1,4907,shp-65-02,2,2
+580010,32,2,"32 Miller to Miller Rd P&R",,0,1101,shp-32-53,2,2
+549020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,102,shp-25-08,2,2
+292020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+2265010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1858010,65,2,"65 Green Fuller to BTC",,1,5001,shp-65-02,2,2
+720010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+1361010,4,2,"4 Washtenaw to BTC",,1,1701,shp-4-04,2,2
+1371020,23,3,"23 PP&R to BTC",,1,1402,shp-23-05,2,1
+2008010,44,2,"44 Ecorse Tyler to West Willow",,0,2301,shp-44-02,2,2
+800070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+1023010,5,2,"5 Packard to YTC",,0,3001,shp-5-55,2,2
+1849010,23,2,"23 PP&R to BTC",,1,1201,shp-23-05,2,1
+1352020,65,3,"65 Green Fuller to BTC",,1,102,shp-65-02,2,2
+1267020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+1913070,25,1,"25 Ann Arbor Saline to BTC",,1,4807,shp-25-07,2,2
+196070,4,1,"4 Washtenaw to BTC",,1,1707,shp-4-04,2,2
+295070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+1563010,23,2,"23 PP&R to BTC",,1,1301,shp-23-05,2,1
+294010,45,2,"45 Grove to YTC",,1,2601,shp-45-52,2,2
+1949010,32,2,"32 Miller to Blake Transit Ctr",,1,1101,shp-32-05,2,2
+2536020,6,3,"6 Ellsworth to BTC",,1,3602,shp-6-09,2,2
+968010,3,2,"Huron River to BTC",,1,701,shp-3-02,2,2
+1775020,6,3,"6 Ellsworth to BTC",,1,4202,shp-6-09,2,2
+1799020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2112020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1402,shp-23-58,2,1
+1706010,4,2,"4 Washtenaw to YTC",,0,1701,shp-4-53,2,2
+2232020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+640020,32,3,"32 Miller to Blake Transit Ctr",,1,1502,shp-32-05,2,2
+175010,32,2,"32 Miller to Miller Rd P&R",,0,1301,shp-32-53,2,2
+1240070,6,1,"6 Ellsworth to YTC",,0,3507,shp-6-60,2,2
+1576070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1210020,42,3,"42 MacArthur Michigan to YTC",,1,2302,shp-42-52,2,2
+2562020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+70020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1331010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1201,shp-23-58,2,1
+2216070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+615020,4,3,"4 Washtenaw to BTC",,1,1902,shp-4-04,2,2
+2563070,65,1,"65 Green-Fuller to Green Rd P&R",,0,5007,shp-65-52,2,2
+276010,23,2,"23 PP&R to BTC",,1,1101,shp-23-05,2,1
+1934070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+1114020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+2249070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+2266020,6,3,"6 Ellsworth to BTC",,1,3302,shp-6-09,2,2
+2545020,25,3,"25 Ann Arbor Saline to BTC",,1,202,shp-25-07,2,2
+982070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+2560010,5,2,"5 Packard to BTC",,1,3001,shp-5-05,2,2
+1529070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+1752010,44,2,"44 Ecorse Tyler to West Willow",,0,2401,shp-44-02,2,2
+2432010,25,2,"25 Ann Arbor Saline to BTC",,1,4901,shp-25-07,2,2
+430010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2501,shp-42-03,2,2
+2067020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+702070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,807,shp-22-52,2,2
+1898020,44,3,"44 Ecorse Tyler to YTC",,1,2402,shp-44-52,2,2
+986010,32,2,"32 Miller to Blake Transit Ctr",,1,1401,shp-32-05,2,2
+157070,3,1,"Huron River to YTC",,0,707,shp-3-51,2,2
+2259070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+925020,23,3,"23 PP&R to BTC",,1,1602,shp-23-05,2,1
+215020,42,3,"42 MacArthur Michigan to YTC",,1,2402,shp-42-52,2,2
+908070,4,1,"4 Washtenaw to YTC",,0,1707,shp-4-53,2,2
+1137020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2502,shp-42-03,2,2
+815010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2501,shp-42-03,2,2
+382070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2307,shp-42-03,2,2
+1484020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+723020,32,3,"32 Miller to Blake Transit Ctr",,1,1102,shp-32-05,2,2
+2347070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+1614020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+2642010,25,2,"25 Ann Arbor Saline to BTC",,1,5001,shp-25-07,2,2
+1299020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+2434070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+123070,32,1,"32 Miller to Blake Transit Ctr",,1,1307,shp-32-05,2,2
+468070,6,1,"6 Ellsworth to YTC",,0,3307,shp-6-60,2,2
+883020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+397020,46,3,"46 Paint Creek to YTC",,1,2602,shp-46-53,2,2
+652070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+2508010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+1623070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,5007,shp-25-08,2,2
+2667070,44,1,"44 Ecorse Tyler to YTC",,1,2407,shp-44-52,2,2
+1818020,22,3,"22 Pontiac to BTC",,1,1002,shp-22-03,2,2
+167020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1792070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2407,shp-42-03,2,2
+814020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+308020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1102,shp-23-58,2,1
+2086020,6,3,"6 Ellsworth to YTC",,0,3202,shp-6-60,2,2
+282070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+855020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+1568010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1470010,42,2,"42 MacArthur Michigan to YTC",,1,2301,shp-42-52,2,2
+453020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,102,shp-25-08,2,2
+2497010,6,2,"6 Ellsworth to YTC",,0,3301,shp-6-60,2,2
+1518010,32,2,"32 Miller to Miller Rd P&R",,0,1301,shp-32-53,2,2
+1790010,6,2,"6 Ellsworth to YTC",,0,3301,shp-6-60,2,2
+2274010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4901,shp-65-52,2,2
+1395070,65,1,"65 Green Fuller to BTC",,1,5007,shp-65-02,2,2
+266020,5,3,"5 Packard to BTC",,1,2902,shp-5-05,2,2
+2115010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+2272010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+1716020,4,3,"4 Washtenaw to BTC",,1,1702,shp-4-04,2,2
+951010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2301,shp-42-03,2,2
+1609010,44,2,"44 Ecorse Tyler to West Willow",,0,2501,shp-44-02,2,2
+1259020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+790010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+1257020,6,3,"6 Ellsworth to BTC",,1,4002,shp-6-09,2,2
+1132020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+57020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1199010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1301,shp-23-58,2,1
+978070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+451020,4,3,"4 Washtenaw to BTC",,1,2002,shp-4-04,2,2
+435020,5,3,"5 Packard to BTC",,1,2802,shp-5-05,2,2
+2191020,3,3,"Huron River to BTC",,1,902,shp-3-02,2,2
+2281020,42,3,"42 MacArthur Michigan to YTC",,1,2302,shp-42-52,2,2
+2581070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+2270020,3,3,"Huron River to BTC",,1,1002,shp-3-02,2,2
+394010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+1819020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+2335020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,1002,shp-22-52,2,2
+556070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+1890010,5,2,"5 Packard to BTC",,1,2801,shp-5-05,2,2
+890020,4,3,"4 Washtenaw to BTC",,1,1802,shp-4-04,2,2
+2477020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1502,shp-23-58,2,1
+2531070,5,1,"5 Packard to BTC",,1,2907,shp-5-05,2,2
+1129070,32,1,"32 Miller to Blake Transit Ctr",,1,1407,shp-32-05,2,2
+565070,4,1,"4 Washtenaw to BTC",,1,1907,shp-4-04,2,2
+260020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1602,shp-23-58,2,1
+520070,32,1,"32 Miller to Miller Rd P&R",,0,1407,shp-32-53,2,2
+479010,6,2,"6 Ellsworth to YTC",,0,3301,shp-6-60,2,2
+2618020,4,3,"4 Washtenaw to YTC",,0,1702,shp-4-53,2,2
+1509070,25,1,"25 Ann Arbor Saline to BTC",,1,4807,shp-25-07,2,2
+2641010,44,2,"44 Ecorse Tyler to West Willow",,0,2301,shp-44-02,2,2
+370010,32,2,"32 Miller to Miller Rd P&R",,0,1401,shp-32-53,2,2
+621020,22,3,"22 Pontiac to BTC",,1,802,shp-22-03,2,2
+1651020,65,3,"65 Green Fuller to BTC",,1,102,shp-65-02,2,2
+153070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1307,shp-23-58,2,1
+833070,5,1,"5 Packard to BTC",,1,3007,shp-5-05,2,2
+395020,65,3,"65 Green Fuller to BTC",,1,302,shp-65-02,2,2
+1899020,22,3,"22 Pontiac to BTC",,1,902,shp-22-03,2,2
+90010,44,2,"44 Ecorse Tyler to West Willow",,0,2401,shp-44-02,2,2
+1546020,5,3,"5 Packard to BTC",,1,3102,shp-5-05,2,2
+948070,3,1,"Huron River to YTC",,0,707,shp-3-51,2,2
+863020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1266010,65,2,"65 Green Fuller to BTC",,1,5001,shp-65-02,2,2
+73010,44,2,"44 Ecorse Tyler to West Willow",,0,2301,shp-44-02,2,2
+239020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+2011020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1559010,6,2,"6 Ellsworth to BTC",,1,3301,shp-6-09,2,2
+1357020,65,3,"65 Green Fuller to BTC",,1,102,shp-65-02,2,2
+973070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4907,shp-25-08,2,2
+2179020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1102,shp-23-58,2,1
+543070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1207,shp-23-58,2,1
+2626010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1101,shp-23-58,2,1
+1769070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+682070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+577020,6,3,"6 Ellsworth to BTC",,1,3502,shp-6-09,2,2
+1088010,6,2,"6 Ellsworth to BTC",,1,3501,shp-6-09,2,2
+2164020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+2648020,46,3,"Paint Creek to YTC",,1,2602,shp-46-52,2,2
+2610020,23,3,"23 PP&R to BTC",,1,1202,shp-23-05,2,1
+1090010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,801,shp-22-52,2,2
+785020,6,3,"6 Ellsworth to YTC",,0,3302,shp-6-60,2,2
+2286010,22,2,"22 Pontiac to BTC",,1,1001,shp-22-03,2,2
+1730020,6,3,"6 Ellsworth to BTC",,1,4302,shp-6-09,2,2
+923070,65,1,"65 Green Fuller to BTC",,1,5007,shp-65-02,2,2
+2170020,22,3,"22 Pontiac to BTC",,1,902,shp-22-03,2,2
+1310010,3,2,"Huron River to BTC",,1,701,shp-3-02,2,2
+2452020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+668070,3,1,"Huron River to YTC",,0,807,shp-3-51,2,2
+2635020,62,3,"62 UM State St to CCTC",,0,4402,shp-62-06,2,1
+1919010,65,2,"65 Green Fuller to BTC",,1,4801,shp-65-02,2,2
+1795020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1229070,42,1,"42 MacArthur Michigan to YTC",,1,2407,shp-42-52,2,2
+956020,44,3,"44 Ecorse Tyler to West Willow",,0,2302,shp-44-02,2,2
+2169020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+554070,3,1,"Huron River to BTC",,1,707,shp-3-02,2,2
+1030010,22,2,"22 Pontiac to BTC",,1,801,shp-22-03,2,2
+1344010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+456010,3,2,"Huron River to YTC",,0,801,shp-3-51,2,2
+2571020,3,3,"Huron River to BTC",,1,902,shp-3-02,2,2
+1175020,6,3,"6 Ellsworth to BTC",,1,3502,shp-6-09,2,2
+1485010,6,2,"6 Ellsworth to YTC",,0,3501,shp-6-60,2,2
+2639020,32,3,"32 Miller to Blake Transit Ctr",,1,1502,shp-32-05,2,2
+114020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+317070,42,1,"42 MacArthur Michigan to YTC",,1,2407,shp-42-52,2,2
+1070020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2402,shp-42-03,2,2
+2293070,42,1,"42 MacArthur Michigan to YTC",,1,2407,shp-42-52,2,2
+2423010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4901,shp-65-52,2,2
+1041010,22,2,"22 Pontiac to BTC",,1,801,shp-22-03,2,2
+2157010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+1957070,3,1,"Huron River to BTC",,1,807,shp-3-02,2,2
+375020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+183010,65,2,"65 Green Fuller to BTC",,1,4901,shp-65-02,2,2
+719010,44,2,"44 Ecorse Tyler to YTC",,1,2401,shp-44-52,2,2
+495070,6,1,"6 Ellsworth to YTC",,0,3407,shp-6-60,2,2
+1414020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1447070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+988010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+846020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+198070,3,1,"Huron River to BTC",,1,1007,shp-3-02,2,2
+1873070,44,1,"44 Ecorse Tyler to West Willow",,0,2307,shp-44-02,2,2
+1452070,5,1,"5 Packard to BTC",,1,2807,shp-5-05,2,2
+1807020,65,3,"65 Green-Fuller to Green Rd P&R",,0,302,shp-65-52,2,2
+1135010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+634070,32,1,"32 Miller to Blake Transit Ctr",,1,1207,shp-32-05,2,2
+2582070,3,1,"Huron River to BTC",,1,907,shp-3-02,2,2
+1232070,4,1,"4 Washtenaw to BTC",,1,1907,shp-4-04,2,2
+2392010,4,2,"4 Washtenaw to BTC",,1,1801,shp-4-04,2,2
+111010,3,2,"Huron River to YTC",,0,701,shp-3-51,2,2
+1853070,23,1,"23 PP&R to BTC",,1,1107,shp-23-05,2,1
+2319070,3,1,"Huron River to BTC",,1,707,shp-3-02,2,2
+426070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+693070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4807,shp-25-08,2,2
+777010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+345010,44,2,"44 Ecorse Tyler to West Willow",,0,2301,shp-44-02,2,2
+2214020,3,3,"Huron River to BTC",,1,1002,shp-3-02,2,2
+1892020,4,3,"4 Washtenaw to YTC",,0,2102,shp-4-53,2,2
+2624020,22,3,"22 Pontiac to BTC",,1,802,shp-22-03,2,2
+2223020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2596010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+2357010,6,2,"6 Ellsworth to YTC",,0,3301,shp-6-60,2,2
+2260070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+1867020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1202,shp-23-58,2,1
+904020,4,3,"4 Washtenaw to BTC",,1,1902,shp-4-04,2,2
+706020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,102,shp-25-08,2,2
+462070,3,1,"Huron River to YTC",,0,707,shp-3-51,2,2
+2083070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+2108020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+1444070,3,1,"Huron River to BTC",,1,1007,shp-3-02,2,2
+1626010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+919070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+2193020,65,3,"65 Green Fuller to BTC",,1,302,shp-65-02,2,2
+1834020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1938010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+42070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+2658010,65,2,"65 Green Fuller to BTC",,1,4801,shp-65-02,2,2
+2132020,23,3,"23 PP&R to BTC",,1,1102,shp-23-05,2,1
+1987070,6,1,"6 Ellsworth to YTC",,0,3307,shp-6-60,2,2
+1367070,6,1,"6 Ellsworth to BTC",,1,3307,shp-6-09,2,2
+1413070,65,1,"65 Green Fuller to BTC",,1,5007,shp-65-02,2,2
+2490010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+103020,4,3,"4 Washtenaw to YTC",,0,2202,shp-4-53,2,2
+2654070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+633020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+1172010,25,2,"25 Ann Arbor Saline to BTC",,1,4801,shp-25-07,2,2
+2219020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1537070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4907,shp-65-52,2,2
+369020,22,3,"22 Pontiac to BTC",,1,802,shp-22-03,2,2
+924020,65,3,"65 Green-Fuller to Green Rd P&R",,0,202,shp-65-52,2,2
+378070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+2505070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1618020,3,3,"Huron River to YTC",,0,902,shp-3-51,2,2
+1005020,65,3,"65 Green Fuller to BTC",,1,302,shp-65-02,2,2
+1301070,44,1,"44 Ecorse Tyler to West Willow",,0,2407,shp-44-02,2,2
+2137020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2402,shp-42-03,2,2
+350010,25,2,"25 Ann Arbor Saline to BTC",,1,5001,shp-25-07,2,2
+739020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1302,shp-23-58,2,1
+1851020,42,3,"42 MacArthur Michigan to YTC",,1,2502,shp-42-52,2,2
+1198020,4,3,"4 Washtenaw to YTC",,0,2002,shp-4-53,2,2
+779010,44,2,"44 Ecorse Tyler to YTC",,1,2301,shp-44-52,2,2
+827020,6,3,"6 Ellsworth to BTC",,1,3202,shp-6-09,2,2
+2498020,4,3,"4 Washtenaw to YTC",,0,2102,shp-4-53,2,2
+1990070,44,1,"44 Ecorse Tyler to West Willow",,0,2307,shp-44-02,2,2
+711020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1603020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1547070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1107,shp-23-58,2,1
+912010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,5001,shp-25-08,2,2
+1194010,5,2,"5 Packard to BTC",,1,3001,shp-5-05,2,2
+624020,3,3,"Huron River to BTC",,1,702,shp-3-02,2,2
+1561020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+427010,4,2,"4 Washtenaw to YTC",,0,1901,shp-4-53,2,2
+2355010,6,2,"6 Ellsworth to BTC",,1,3401,shp-6-09,2,2
+1031020,25,3,"25 Ann Arbor Saline to BTC",,1,302,shp-25-07,2,2
+1669010,25,2,"25 Ann Arbor Saline to BTC",,1,4801,shp-25-07,2,2
+1467070,3,1,"Huron River to BTC",,1,707,shp-3-02,2,2
+1445020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,302,shp-25-08,2,2
+143070,4,1,"4 Washtenaw to YTC",,0,1907,shp-4-53,2,2
+2315070,65,1,"65 Green Fuller to BTC",,1,4807,shp-65-02,2,2
+1342020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+1520070,32,1,"32 Miller to Miller Rd P&R",,0,1307,shp-32-53,2,2
+164070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+1906070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+2111010,6,2,"6 Ellsworth to YTC",,0,3501,shp-6-60,2,2
+2296010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+871070,23,1,"23 PP&R to BTC",,1,1307,shp-23-05,2,1
+546020,46,3,"Paint Creek to YTC",,1,2602,shp-46-52,2,2
+2181010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,901,shp-22-52,2,2
+756070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4907,shp-65-52,2,2
+1933010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+1927010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,901,shp-22-52,2,2
+222020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+277020,32,3,"32 Miller to Blake Transit Ctr",,1,1202,shp-32-05,2,2
+2158020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1094020,44,3,"44 Ecorse Tyler to West Willow",,0,2502,shp-44-02,2,2
+213020,32,3,"32 Miller to Miller Rd P&R",,0,1402,shp-32-53,2,2
+547070,6,1,"6 Ellsworth to BTC",,1,3207,shp-6-09,2,2
+83010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+1101070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+88020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+2006020,62,3,"62 UM State St to Wolverine Tower",,1,4702,shp-62-52,2,1
+2517070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+469020,23,3,"23 PP&R to BTC",,1,1102,shp-23-05,2,1
+1667020,22,3,"22 Pontiac to BTC",,1,702,shp-22-03,2,2
+680020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1166020,22,3,"22 Pontiac to BTC",,1,702,shp-22-03,2,2
+233010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2501,shp-42-03,2,2
+1984070,4,1,"4 Washtenaw to YTC",,0,1807,shp-4-53,2,2
+2226070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+2298070,6,1,"6 Ellsworth to YTC",,0,3307,shp-6-60,2,2
+2010020,42,3,"42 MacArthur Michigan to YTC",,1,2502,shp-42-52,2,2
+467070,4,1,"4 Washtenaw to BTC",,1,1707,shp-4-04,2,2
+1928020,4,3,"4 Washtenaw to YTC",,0,1902,shp-4-53,2,2
+1821020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+1218010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2301,shp-42-03,2,2
+2204010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+1145070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+2593020,44,3,"44 Ecorse Tyler to West Willow",,0,2502,shp-44-02,2,2
+102020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,702,shp-22-52,2,2
+828010,44,2,"44 Ecorse Tyler to YTC",,1,2501,shp-44-52,2,2
+1478020,4,3,"4 Washtenaw to YTC",,0,1902,shp-4-53,2,2
+286020,32,3,"32 Miller to Blake Transit Ctr",,1,1102,shp-32-05,2,2
+336010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+2091010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+2467020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+877020,6,3,"6 Ellsworth to YTC",,0,4102,shp-6-60,2,2
+1028070,65,1,"65 Green Fuller to BTC",,1,4807,shp-65-02,2,2
+1917070,5,1,"5 Packard to YTC",,0,3107,shp-5-55,2,2
+194070,32,1,"32 Miller to Miller Rd P&R",,0,1307,shp-32-53,2,2
+207070,6,1,"6 Ellsworth to YTC",,0,3407,shp-6-60,2,2
+408070,22,1,"22 Pontiac to BTC",,1,1007,shp-22-03,2,2
+2387070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+1879010,44,2,"44 Ecorse Tyler to YTC",,1,2401,shp-44-52,2,2
+529070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+537010,42,2,"42 MacArthur Michigan to YTC",,1,2301,shp-42-52,2,2
+1825020,44,3,"44 Ecorse Tyler to West Willow",,0,2402,shp-44-02,2,2
+1098010,6,2,"6 Ellsworth to BTC",,1,3201,shp-6-09,2,2
+2551020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+245020,45,3,"45 Grove to YTC",,1,2602,shp-45-52,2,2
+1866010,42,2,"42 MacArthur Michigan to YTC",,1,2301,shp-42-52,2,2
+339010,4,2,"4 Washtenaw to YTC",,0,1901,shp-4-53,2,2
+2401010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1101,shp-23-58,2,1
+1191010,4,2,"4 Washtenaw to BTC",,1,1701,shp-4-04,2,2
+1511010,4,2,"4 Washtenaw to YTC",,0,1801,shp-4-53,2,2
+283070,65,1,"65 Green Fuller to BTC",,1,4807,shp-65-02,2,2
+1607070,22,1,"22 Pontiac to BTC",,1,1007,shp-22-03,2,2
+2559020,22,3,"22 Pontiac to BTC",,1,1002,shp-22-03,2,2
+55020,3,3,"Huron River to YTC",,0,802,shp-3-51,2,2
+1412010,23,2,"23 PP&R to BTC",,1,1401,shp-23-05,2,1
+2307070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1558020,4,3,"4 Washtenaw to YTC",,0,1702,shp-4-53,2,2
+312020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1402,shp-23-58,2,1
+1460020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+463010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,5001,shp-25-08,2,2
+525020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1567010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4801,shp-25-08,2,2
+1333010,3,2,"Huron River to BTC",,1,801,shp-3-02,2,2
+1332010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2301,shp-42-03,2,2
+2364020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+2150020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1402,shp-23-58,2,1
+983020,65,3,"65 Green Fuller to BTC",,1,202,shp-65-02,2,2
+32020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1402,shp-23-58,2,1
+1314010,65,2,"65 Green Fuller to BTC",,1,4901,shp-65-02,2,2
+573020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-04,2,2
+683020,32,3,"32 Miller to Miller Rd P&R",,0,1402,shp-32-53,2,2
+1179070,3,1,"Huron River to BTC",,1,807,shp-3-02,2,2
+1316020,65,3,"65 Green-Fuller to Green Rd P&R",,0,102,shp-65-52,2,2
+448020,4,3,"4 Washtenaw to BTC",,1,1902,shp-4-04,2,2
+2045010,22,2,"22 Pontiac to BTC",,1,1001,shp-22-03,2,2
+2510010,22,2,"22 Pontiac to BTC",,1,1001,shp-22-03,2,2
+122020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+671070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1597020,4,3,"4 Washtenaw to BTC",,1,2202,shp-4-04,2,2
+745020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+2487020,32,3,"32 Miller to Blake Transit Ctr",,1,1602,shp-32-05,2,2
+994020,23,3,"23 PP&R to BTC",,1,1302,shp-23-05,2,1
+660070,4,1,"4 Washtenaw to BTC",,1,1707,shp-4-04,2,2
+2224010,32,2,"32 Miller to Miller Rd P&R",,0,1201,shp-32-53,2,2
+1754010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+2047070,44,1,"44 Ecorse Tyler to West Willow",,0,2307,shp-44-02,2,2
+1643020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,702,shp-22-52,2,2
+798070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4807,shp-65-52,2,2
+2029010,23,2,"23 PP&R to BTC",,1,1301,shp-23-05,2,1
+2054020,44,3,"44 Ecorse Tyler to West Willow",,0,2502,shp-44-02,2,2
+104020,4,3,"4 Washtenaw to YTC",,0,1702,shp-4-53,2,2
+1443010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4901,shp-65-52,2,2
+709010,5,2,"5 Packard to BTC",,1,3001,shp-5-05,2,2
+944010,46,2,"Paint Creek to YTC",,1,2601,shp-46-52,2,2
+2245020,23,3,"23 PP&R to BTC",,1,1402,shp-23-05,2,1
+482020,4,3,"4 Washtenaw to YTC",,0,2202,shp-4-53,2,2
+2311020,4,3,"4 Washtenaw to BTC",,1,1802,shp-4-04,2,2
+561070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+1286070,44,1,"44 Ecorse Tyler to YTC",,1,2407,shp-44-52,2,2
+2525020,62,3,"62 UM State St to CCTC",,0,4502,shp-62-06,2,1
+2424020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1102,shp-23-58,2,1
+2580020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,702,shp-22-52,2,2
+2263070,4,1,"4 Washtenaw to BTC",,1,1707,shp-4-04,2,2
+1824020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+2466010,42,2,"42 MacArthur Michigan to MacArthur & Harris",,0,2501,shp-42-03,2,2
+2174010,32,2,"32 Miller to Miller Rd P&R",,0,1401,shp-32-53,2,2
+917010,23,2,"23 PP&R to BTC",,1,1101,shp-23-05,2,1
+1103020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+708070,4,1,"4 Washtenaw to BTC",,1,1807,shp-4-04,2,2
+1394070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+937020,25,3,"25 Ann Arbor Saline to BTC",,1,102,shp-25-07,2,2
+1164070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+1046020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+1055070,25,1,"25 Ann Arbor Saline to BTC",,1,4907,shp-25-07,2,2
+53010,3,2,"Huron River to YTC",,0,801,shp-3-51,2,2
+2027020,6,3,"6 Ellsworth to YTC",,0,3702,shp-6-60,2,2
+1318010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+2244010,65,2,"65 Green Fuller to BTC",,1,4801,shp-65-02,2,2
+374020,65,3,"65 Green Fuller to BTC",,1,302,shp-65-02,2,2
+2269070,32,1,"32 Miller to Blake Transit Ctr",,1,1107,shp-32-05,2,2
+1571010,42,2,"42 MacArthur Michigan to YTC",,1,2501,shp-42-52,2,2
+1471010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+279020,23,3,"23 PP&R to BTC",,1,1602,shp-23-05,2,1
+2325070,46,1,"46 Paint Creek to Whittaker Library",,0,2607,shp-46-04,2,2
+774070,6,1,"6 Ellsworth to YTC",,0,3207,shp-6-60,2,2
+2300020,23,3,"23 PP&R to BTC",,1,1502,shp-23-05,2,1
+1354070,5,1,"5 Packard to BTC",,1,2807,shp-5-05,2,2
+1408070,3,1,"Huron River to BTC",,1,1007,shp-3-02,2,2
+669070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+2375010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+1749020,3,3,"Huron River to YTC",,0,902,shp-3-51,2,2
+96020,4,3,"4 Washtenaw to YTC",,0,1902,shp-4-53,2,2
+1054020,44,3,"44 Ecorse Tyler to YTC",,1,2402,shp-44-52,2,2
+2342070,65,1,"65 Green-Fuller to Green Rd P&R",,0,5007,shp-65-52,2,2
+244010,32,2,"32 Miller to Blake Transit Ctr",,1,1101,shp-32-05,2,2
+1736070,32,1,"32 Miller to Blake Transit Ctr",,1,1107,shp-32-05,2,2
+1097020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1402,shp-23-58,2,1
+930010,42,2,"42 MacArthur Michigan to YTC",,1,2501,shp-42-52,2,2
+2671020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+2056010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+1121070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+762020,32,3,"32 Miller to Blake Transit Ctr",,1,1402,shp-32-05,2,2
+2368010,6,2,"6 Ellsworth to YTC",,0,3201,shp-6-60,2,2
+302020,42,3,"42 MacArthur Michigan to YTC",,1,2402,shp-42-52,2,2
+1979010,22,2,"22 Pontiac to BTC",,1,801,shp-22-03,2,2
+459010,3,2,"Huron River to YTC",,0,701,shp-3-51,2,2
+1674070,5,1,"5 Packard to BTC",,1,3007,shp-5-05,2,2
+783010,5,2,"5 Packard to BTC",,1,3001,shp-5-05,2,2
+1208020,42,3,"42 MacArthur Michigan to YTC",,1,2502,shp-42-52,2,2
+1531010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+1185020,5,3,"5 Packard to BTC",,1,2802,shp-5-05,2,2
+118010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+149070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,4907,shp-25-08,2,2
+1144010,32,2,"32 Miller to Blake Transit Ctr",,1,1401,shp-32-05,2,2
+2437010,32,2,"32 Miller to Blake Transit Ctr",,1,1201,shp-32-05,2,2
+195070,4,1,"4 Washtenaw to BTC",,1,1807,shp-4-04,2,2
+406020,6,3,"6 Ellsworth to YTC",,0,4202,shp-6-60,2,2
+2383010,65,2,"65 Green-Fuller to Green Rd P&R",,0,4901,shp-65-52,2,2
+1523020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+1764070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1941010,65,2,"65 Green Fuller to BTC",,1,4901,shp-65-02,2,2
+1403070,44,1,"44 Ecorse Tyler to West Willow",,0,2507,shp-44-02,2,2
+1004020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+1784070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+1201020,5,3,"5 Packard to BTC",,1,2902,shp-5-05,2,2
+1087020,44,3,"44 Ecorse Tyler to West Willow",,0,2402,shp-44-02,2,2
+1223020,4,3,"4 Washtenaw to YTC",,0,2102,shp-4-53,2,2
+576070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1307,shp-23-58,2,1
+1458010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+152020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1202,shp-23-58,2,1
+487020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+2012070,5,1,"5 Packard to BTC",,1,2807,shp-5-05,2,2
+903020,65,3,"65 Green Fuller to BTC",,1,202,shp-65-02,2,2
+2534070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,5007,shp-25-08,2,2
+2661020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+1219020,65,3,"65 Green Fuller to BTC",,1,102,shp-65-02,2,2
+1763070,22,1,"22 Pontiac to BTC",,1,807,shp-22-03,2,2
+1534020,32,3,"32 Miller to Miller Rd P&R",,0,1102,shp-32-53,2,2
+616020,4,3,"4 Washtenaw to BTC",,1,1702,shp-4-04,2,2
+281020,44,3,"44 Ecorse Tyler to YTC",,1,2402,shp-44-52,2,2
+838070,65,1,"65 Green Fuller to BTC",,1,4807,shp-65-02,2,2
+2602070,42,1,"42 MacArthur Michigan to YTC",,1,2507,shp-42-52,2,2
+2217010,65,2,"65 Green Fuller to BTC",,1,4901,shp-65-02,2,2
+485010,47,2,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2701,shp-47-02,2,2
+2133070,5,1,"5 Packard to YTC",,0,3007,shp-5-55,2,2
+2194020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+1410070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+697010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+2003010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+2126020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+1697010,32,2,"32 Miller to Miller Rd P&R",,0,1401,shp-32-53,2,2
+168010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+824010,4,2,"4 Washtenaw to BTC",,1,1901,shp-4-04,2,2
+1843020,65,3,"65 Green-Fuller to Green Rd P&R",,0,202,shp-65-52,2,2
+1932020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,902,shp-22-52,2,2
+69020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+969070,6,1,"6 Ellsworth to BTC",,1,3307,shp-6-09,2,2
+1236020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1302,shp-23-58,2,1
+1409070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+217020,32,3,"32 Miller to Miller Rd P&R",,0,1202,shp-32-53,2,2
+984020,32,3,"32 Miller to Miller Rd P&R",,0,1402,shp-32-53,2,2
+510020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+2095070,32,1,"32 Miller to Miller Rd P&R",,0,1107,shp-32-53,2,2
+2428070,44,1,"44 Ecorse Tyler to YTC",,1,2407,shp-44-52,2,2
+1388010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+444070,32,1,"32 Miller to Miller Rd P&R",,0,1407,shp-32-53,2,2
+2351010,65,2,"65 Green Fuller to BTC",,1,4801,shp-65-02,2,2
+400070,5,1,"5 Packard to BTC",,1,2907,shp-5-05,2,2
+475020,6,3,"6 Ellsworth to YTC",,0,3302,shp-6-60,2,2
+999070,32,1,"32 Miller to Miller Rd P&R",,0,1207,shp-32-53,2,2
+1641020,44,3,"44 Ecorse Tyler to West Willow",,0,2502,shp-44-02,2,2
+1256070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+2120010,42,2,"42 MacArthur Michigan to YTC",,1,2401,shp-42-52,2,2
+1794010,44,2,"44 Ecorse Tyler to West Willow",,0,2501,shp-44-02,2,2
+2353020,62,3,"62 UM State St to Wolverine Tower",,1,4502,shp-62-52,2,1
+1856070,23,1,"23 PP&R to BTC",,1,1207,shp-23-05,2,1
+1350010,65,2,"65 Green Fuller to BTC",,1,4801,shp-65-02,2,2
+193070,22,1,"22 Pontiac to BTC",,1,907,shp-22-03,2,2
+2455070,45,1,"45 Grove to YTC",,1,2607,shp-45-52,2,2
+1150070,5,1,"5 Packard to BTC",,1,2807,shp-5-05,2,2
+942010,32,2,"32 Miller to Blake Transit Ctr",,1,1101,shp-32-05,2,2
+1271020,6,3,"6 Ellsworth to YTC",,0,3502,shp-6-60,2,2
+1897010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+2044020,65,3,"65 Green Fuller to BTC",,1,302,shp-65-02,2,2
+447010,5,2,"5 Packard to YTC",,0,3001,shp-5-55,2,2
+775020,6,3,"6 Ellsworth to BTC",,1,3502,shp-6-09,2,2
+25070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+570070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+2173020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+20070,4,1,"4 Washtenaw to YTC",,0,1807,shp-4-53,2,2
+221020,44,3,"44 Ecorse Tyler to West Willow",,0,2502,shp-44-02,2,2
+1147020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+211020,62,3,"62 UM State St to CCTC",,0,4702,shp-62-06,2,1
+2009070,65,1,"65 Green Fuller to BTC",,1,4907,shp-65-02,2,2
+1676020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1202,shp-23-58,2,1
+1809020,25,3,"25 Ann Arbor Saline to BTC",,1,202,shp-25-07,2,2
+534020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,102,shp-25-08,2,2
+1108020,4,3,"4 Washtenaw to YTC",,0,2202,shp-4-53,2,2
+2646020,3,3,"Huron River to BTC",,1,802,shp-3-02,2,2
+788070,3,1,"Huron River to YTC",,0,707,shp-3-51,2,2
+718010,23,2,"23 Plymouth to Plymouth Rd P&R",,0,1401,shp-23-58,2,1
+1231010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+679020,4,3,"4 Washtenaw to YTC",,0,2002,shp-4-53,2,2
+1848070,46,1,"Paint Creek to YTC",,1,2607,shp-46-52,2,2
+751010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1679020,22,3,"22 Pontiac to BTC",,1,702,shp-22-03,2,2
+1506070,3,1,"Huron River to YTC",,0,907,shp-3-51,2,2
+821020,42,3,"42 MacArthur Michigan to YTC",,1,2502,shp-42-52,2,2
+939070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+51010,65,2,"65 Green Fuller to BTC",,1,5001,shp-65-02,2,2
+2419020,6,3,"6 Ellsworth to YTC",,0,3702,shp-6-60,2,2
+2514020,5,3,"5 Packard to BTC",,1,3102,shp-5-05,2,2
+741010,4,2,"4 Washtenaw to YTC",,0,1801,shp-4-53,2,2
+1863020,25,3,"25 Ann Arbor Saline to BTC",,1,302,shp-25-07,2,2
+743020,5,3,"5 Packard to BTC",,1,2902,shp-5-05,2,2
+508020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+873070,5,1,"5 Packard to YTC",,0,3107,shp-5-55,2,2
+1364020,44,3,"44 Ecorse Tyler to YTC",,1,2302,shp-44-52,2,2
+1074070,44,1,"44 Ecorse Tyler to YTC",,1,2507,shp-44-52,2,2
+1748070,3,1,"Huron River to YTC",,0,1007,shp-3-51,2,2
+1498020,42,3,"42 MacArthur Michigan to YTC",,1,2302,shp-42-52,2,2
+246070,65,1,"65 Green Fuller to BTC",,1,4907,shp-65-02,2,2
+602010,46,2,"46 Paint Creek to Whittaker Library",,0,2601,shp-46-04,2,2
+1376010,4,2,"4 Washtenaw to YTC",,0,1701,shp-4-53,2,2
+234010,44,2,"44 Ecorse Tyler to YTC",,1,2301,shp-44-52,2,2
+850020,22,3,"22 Pontiac to BTC",,1,802,shp-22-03,2,2
+981070,25,1,"25 Ann Arbor - Saline Rd to Meijer",,0,5007,shp-25-08,2,2
+1951010,30,2,"30 Jackson Dexter to BTC",,1,601,shp-30-04,2,2
+1293070,4,1,"4 Washtenaw to BTC",,1,1707,shp-4-04,2,2
+2290020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1502,shp-23-58,2,1
+1549010,5,2,"5 Packard to BTC",,1,2901,shp-5-05,2,2
+320070,44,1,"44 Ecorse Tyler to YTC",,1,2307,shp-44-52,2,2
+1502070,6,1,"6 Ellsworth to BTC",,1,3507,shp-6-09,2,2
+596010,23,2,"23 PP&R to BTC",,1,1401,shp-23-05,2,1
+1665020,45,3,"45 Grove to Gove & Harry",,0,2602,shp-45-02,2,2
+2374020,65,3,"65 Green-Fuller to Green Rd P&R",,0,302,shp-65-52,2,2
+2288070,47,1,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2707,shp-47-02,2,2
+1817020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,802,shp-22-52,2,2
+1173020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1302,shp-23-58,2,1
+2221010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4801,shp-25-08,2,2
+2184070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2507,shp-42-03,2,2
+1116070,5,1,"5 Packard to YTC",,0,2907,shp-5-55,2,2
+1292010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,5001,shp-25-08,2,2
+2156070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+1993020,65,3,"65 Green-Fuller to Green Rd P&R",,0,302,shp-65-52,2,2
+558010,65,2,"65 Green-Fuller to Green Rd P&R",,0,5001,shp-65-52,2,2
+1019010,65,2,"65 Green Fuller to BTC",,1,4901,shp-65-02,2,2
+1269070,3,1,"Huron River to YTC",,0,1007,shp-3-51,2,2
+872010,32,2,"32 Miller to Miller Rd P&R",,0,1201,shp-32-53,2,2
+326020,44,3,"44 Ecorse Tyler to West Willow",,0,2402,shp-44-02,2,2
+420070,65,1,"65 Green Fuller to BTC",,1,4907,shp-65-02,2,2
+1681070,4,1,"4 Washtenaw to YTC",,0,1907,shp-4-53,2,2
+30020,25,3,"25 Ann Arbor Saline to BTC",,1,102,shp-25-07,2,2
+208010,3,2,"Huron River to BTC",,1,801,shp-3-02,2,2
+1700070,44,1,"44 Ecorse Tyler to YTC",,1,2507,shp-44-52,2,2
+799010,65,2,"65 Green Fuller to BTC",,1,4801,shp-65-02,2,2
+2485020,30,3,"30 Jackson Dexter to BTC",,1,602,shp-30-04,2,2
+1953010,44,2,"44 Ecorse Tyler to West Willow",,0,2501,shp-44-02,2,2
+1628070,22,1,"22 Pontiac Dhu Varren to Food Gatherers",,0,807,shp-22-52,2,2
+1722020,42,3,"42 MacArthur Michigan to MacArthur & Harris",,0,2402,shp-42-03,2,2
+138010,6,2,"6 Ellsworth to YTC",,0,3301,shp-6-60,2,2
+330010,6,2,"6 Ellsworth to BTC",,1,3401,shp-6-09,2,2
+1353020,25,3,"25 Ann Arbor Saline to BTC",,1,302,shp-25-07,2,2
+472010,32,2,"32 Miller to Miller Rd P&R",,0,1301,shp-32-53,2,2
+1645070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+1169020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+2323020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1871010,3,2,"Huron River to YTC",,0,1001,shp-3-51,2,2
+1473070,3,1,"Huron River to BTC",,1,807,shp-3-02,2,2
+1109020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1302,shp-23-58,2,1
+356020,22,3,"22 Pontiac to BTC",,1,702,shp-22-03,2,2
+2081020,25,3,"25 Ann Arbor Saline to BTC",,1,202,shp-25-07,2,2
+1491020,3,3,"Huron River to BTC",,1,702,shp-3-02,2,2
+1515070,42,1,"42 MacArthur Michigan to YTC",,1,2407,shp-42-52,2,2
+129010,3,2,"Huron River to YTC",,0,801,shp-3-51,2,2
+2060020,44,3,"44 Ecorse Tyler to YTC",,1,2502,shp-44-52,2,2
+1658070,22,1,"22 Pontiac to BTC",,1,1007,shp-22-03,2,2
+1492070,4,1,"4 Washtenaw to BTC",,1,1907,shp-4-04,2,2
+1273010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+2168020,4,3,"4 Washtenaw to BTC",,1,1802,shp-4-04,2,2
+2501070,32,1,"32 Miller to Miller Rd P&R",,0,1107,shp-32-53,2,2
+1950070,32,1,"32 Miller to Miller Rd P&R",,0,1107,shp-32-53,2,2
+1133020,6,3,"6 Ellsworth to YTC",,0,4002,shp-6-60,2,2
+332070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+2165020,46,3,"46 Paint Creek to Whittaker Library",,0,2602,shp-46-03,2,2
+655020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+268070,23,1,"23 Plymouth to Plymouth Rd P&R",,0,1407,shp-23-58,2,1
+2464020,46,3,"Paint Creek to YTC",,1,2602,shp-46-52,2,2
+31020,4,3,"4 Washtenaw to BTC",,1,2002,shp-4-04,2,2
+1456070,25,1,"25 Ann Arbor Saline to BTC",,1,5007,shp-25-07,2,2
+536070,42,1,"42 MacArthur Michigan to MacArthur & Harris",,0,2507,shp-42-03,2,2
+2427020,42,3,"42 MacArthur Michigan to YTC",,1,2402,shp-42-52,2,2
+1952070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+795010,22,2,"22 Pontiac Dhu Varren to Food Gatherers",,0,901,shp-22-52,2,2
+650070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+373010,42,2,"42 MacArthur Michigan to YTC",,1,2301,shp-42-52,2,2
+1909020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+1708010,5,2,"5 Packard to BTC",,1,3001,shp-5-05,2,2
+2166020,5,3,"5 Packard to BTC",,1,2902,shp-5-05,2,2
+1680010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+1624020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,102,shp-25-08,2,2
+54070,5,1,"5 Packard to YTC",,0,3107,shp-5-55,2,2
+1407070,25,1,"25 Ann Arbor Saline to BTC",,1,5007,shp-25-07,2,2
+2633070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+2527020,5,3,"5 Packard to BTC",,1,3002,shp-5-05,2,2
+2652070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+1683070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+1270070,28,1,"28 Pauline to BTC",,1,507,shp-28-10,2,2
+761010,4,2,"4 Washtenaw to BTC",,1,1701,shp-4-04,2,2
+2072010,6,2,"6 Ellsworth to BTC",,1,3501,shp-6-09,2,2
+840010,28,2,"28 Pauline to Pauline & Maple",,0,501,shp-28-11,2,2
+2516010,32,2,"32 Miller to Miller Rd P&R",,0,1201,shp-32-53,2,2
+261010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+1903010,65,2,"65 Green-Fuller to Green Rd P&R",,0,5001,shp-65-52,2,2
+712020,47,3,"47 Harriet Michigan to YTC",,1,2702,shp-47-51,2,2
+187070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+1368010,32,2,"32 Miller to Miller Rd P&R",,0,1301,shp-32-53,2,2
+37070,47,1,"47 Harriet Michigan to YTC",,1,2707,shp-47-51,2,2
+2306010,45,2,"45 Grove to Gove & Harry",,0,2601,shp-45-02,2,2
+389020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+1654070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+1798070,44,1,"44 Ecorse Tyler to West Willow",,0,2407,shp-44-02,2,2
+237010,6,2,"6 Ellsworth to BTC",,1,3201,shp-6-09,2,2
+110070,22,1,"22 Pontiac to BTC",,1,707,shp-22-03,2,2
+2412010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+2554010,6,2,"6 Ellsworth to YTC",,0,3201,shp-6-60,2,2
+2625020,28,3,"28 Pauline to Pauline & Maple",,0,502,shp-28-11,2,2
+2032010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+2297020,26,3,"26 Scio Church to Maple & Breckenridge",,0,402,shp-26-53,2,2
+1123020,62,3,"62 UM State St to Wolverine Tower",,1,4502,shp-62-52,2,1
+2098070,42,1,"42 MacArthur Michigan to YTC",,1,2307,shp-42-52,2,2
+810070,65,1,"65 Green-Fuller to Green Rd P&R",,0,4907,shp-65-52,2,2
+2637010,32,2,"32 Miller to Blake Transit Ctr",,1,1101,shp-32-05,2,2
+2617070,4,1,"4 Washtenaw to BTC",,1,1807,shp-4-04,2,2
+1804020,30,3,"30 Jackon Dexter to Jackson & Wagner",,0,602,shp-30-52,2,2
+23020,65,3,"65 Green Fuller to BTC",,1,302,shp-65-02,2,2
+1842070,44,1,"44 Ecorse Tyler to YTC",,1,2407,shp-44-52,2,2
+1813010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+1816070,22,1,"22 Pontiac to BTC",,1,707,shp-22-03,2,2
+1635010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+935010,22,2,"22 Pontiac to BTC",,1,901,shp-22-03,2,2
+2013010,5,2,"5 Packard to YTC",,0,3101,shp-5-55,2,2
+1402070,23,1,"23 PP&R to BTC",,1,1107,shp-23-05,2,1
+896070,23,1,"23 PP&R to BTC",,1,1307,shp-23-05,2,1
+763070,65,1,"65 Green Fuller to BTC",,1,4807,shp-65-02,2,2
+1324020,47,3,"47 Harriet Michigan to Hewistt & Ellsworth",,0,2702,shp-47-02,2,2
+2277010,65,2,"65 Green Fuller to BTC",,1,4801,shp-65-02,2,2
+269070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+2530010,4,2,"4 Washtenaw to BTC",,1,1701,shp-4-04,2,2
+1838020,5,3,"5 Packard to YTC",,0,3102,shp-5-55,2,2
+2218010,47,2,"47 Harriet Michigan to YTC",,1,2701,shp-47-51,2,2
+993010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+1348020,4,3,"4 Washtenaw to BTC",,1,1902,shp-4-04,2,2
+1693010,32,2,"32 Miller to Blake Transit Ctr",,1,1201,shp-32-05,2,2
+831020,6,3,"6 Ellsworth to YTC",,0,4002,shp-6-60,2,2
+1786010,26,2,"26 Scio Church to Maple & Breckenridge",,0,401,shp-26-53,2,2
+1455010,44,2,"44 Ecorse Tyler to West Willow",,0,2501,shp-44-02,2,2
+593020,25,3,"25 Ann Arbor Saline to BTC",,1,302,shp-25-07,2,2
+2403020,6,3,"6 Ellsworth to BTC",,1,3702,shp-6-09,2,2
+2136010,4,2,"4 Washtenaw to YTC",,0,1701,shp-4-53,2,2
+34010,3,2,"Huron River to BTC",,1,701,shp-3-02,2,2
+701070,6,1,"6 Ellsworth to YTC",,0,3507,shp-6-60,2,2
+2129010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,5001,shp-25-08,2,2
+481070,26,1,"26 Scio Church to Blake Transit Center",,1,407,shp-26-03,2,2
+155070,5,1,"5 Packard to YTC",,0,3007,shp-5-55,2,2
+1262070,6,1,"6 Ellsworth to BTC",,1,3507,shp-6-09,2,2
+1068020,46,3,"Paint Creek to YTC",,1,2602,shp-46-52,2,2
+2604020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,802,shp-22-52,2,2
+363070,3,1,"Huron River to BTC",,1,1007,shp-3-02,2,2
+2397010,5,2,"5 Packard to BTC",,1,2801,shp-5-05,2,2
+2304070,32,1,"32 Miller to Miller Rd P&R",,0,1307,shp-32-53,2,2
+288010,22,2,"22 Pontiac to BTC",,1,901,shp-22-03,2,2
+1582020,25,3,"25 Ann Arbor - Saline Rd to Meijer",,0,202,shp-25-08,2,2
+1694010,25,2,"25 Ann Arbor - Saline Rd to Meijer",,0,4801,shp-25-08,2,2
+2200020,4,3,"4 Washtenaw to YTC",,0,2002,shp-4-53,2,2
+1421070,26,1,"26 Scio Church to Maple & Breckenridge",,0,407,shp-26-53,2,2
+809070,45,1,"45 Grove to Gove & Harry",,0,2607,shp-45-02,2,2
+1948020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+60070,22,1,"22 Pontiac to BTC",,1,807,shp-22-03,2,2
+2268020,3,3,"Huron River to YTC",,0,1002,shp-3-51,2,2
+1347020,4,3,"4 Washtenaw to YTC",,0,1702,shp-4-53,2,2
+2247020,23,3,"23 Plymouth to Plymouth Rd P&R",,0,1502,shp-23-58,2,1
+1876010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+1539070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+1003020,62,3,"62 UM State St to CCTC",,0,4702,shp-62-06,2,1
+1341020,6,3,"6 Ellsworth to YTC",,0,3502,shp-6-60,2,2
+1780010,26,2,"26 Scio Church to Blake Transit Center",,1,401,shp-26-03,2,2
+1734010,42,2,"42 MacArthur Michigan to YTC",,1,2401,shp-42-52,2,2
+1943070,30,1,"30 Jackson Dexter to BTC",,1,607,shp-30-04,2,2
+2471020,28,3,"28 Pauline to BTC",,1,502,shp-28-10,2,2
+2050020,22,3,"22 Pontiac to BTC",,1,802,shp-22-03,2,2
+1860070,32,1,"32 Miller to Blake Transit Ctr",,1,1307,shp-32-05,2,2
+1659070,6,1,"6 Ellsworth to YTC",,0,3507,shp-6-60,2,2
+248070,22,1,"22 Pontiac to BTC",,1,907,shp-22-03,2,2
+2561020,44,3,"44 Ecorse Tyler to West Willow",,0,2302,shp-44-02,2,2
+493020,6,3,"6 Ellsworth to BTC",,1,3702,shp-6-09,2,2
+704070,30,1,"30 Jackon Dexter to Jackson & Wagner",,0,607,shp-30-52,2,2
+1015010,25,2,"25 Ann Arbor Saline to BTC",,1,5001,shp-25-07,2,2
+212070,28,1,"28 Pauline to Pauline & Maple",,0,507,shp-28-11,2,2
+1782020,6,3,"6 Ellsworth to YTC",,0,3602,shp-6-60,2,2
+2202010,44,2,"44 Ecorse Tyler to YTC",,1,2501,shp-44-52,2,2
+1719070,44,1,"44 Ecorse Tyler to YTC",,1,2407,shp-44-52,2,2
+1513010,28,2,"28 Pauline to BTC",,1,501,shp-28-10,2,2
+2627020,3,3,"Huron River to YTC",,0,902,shp-3-51,2,2
+692020,22,3,"22 Pontiac Dhu Varren to Food Gatherers",,0,902,shp-22-52,2,2
+2267020,26,3,"26 Scio Church to Blake Transit Center",,1,402,shp-26-03,2,2
+1351010,30,2,"30 Jackon Dexter to Jackson & Wagner",,0,601,shp-30-52,2,2
+231010,22,2,"22 Pontiac to BTC",,1,701,shp-22-03,2,2
